@@ -1,0 +1,46 @@
+"LOG"
+"1" "50001  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:16"
+"2" "occurrence  50001  read.  TimeStamp:  2015-05-31 23:03:16"
+"3" "50002  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:16"
+"4" "occurrence  50002  read.  TimeStamp:  2015-05-31 23:03:16"
+"5" "50003  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:17"
+"6" "occurrence  50003  read.  TimeStamp:  2015-05-31 23:03:17"
+"7" "50004  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:17"
+"8" "occurrence  50004  read.  TimeStamp:  2015-05-31 23:03:17"
+"9" "50005  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:18"
+"10" "occurrence  50005  read.  TimeStamp:  2015-05-31 23:03:18"
+"11" "50006  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:18"
+"12" "occurrence  50006  read.  TimeStamp:  2015-05-31 23:03:18"
+"13" "50007  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:18"
+"14" "occurrence  50007  read.  TimeStamp:  2015-05-31 23:03:18"
+"15" "50008  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:20"
+"16" "occurrence  50008  read.  TimeStamp:  2015-05-31 23:03:20"
+"17" "50009  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:20"
+"18" "occurrence  50009  read.  TimeStamp:  2015-05-31 23:03:20"
+"19" "50010  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:22"
+"20" "occurrence  50010  read.  TimeStamp:  2015-05-31 23:03:22"
+"21" "50011  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:22"
+"22" "occurrence  50011  read.  TimeStamp:  2015-05-31 23:03:22"
+"23" "50012  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:22"
+"24" "occurrence  50012  read.  TimeStamp:  2015-05-31 23:03:22"
+"25" "50013  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:23"
+"26" "occurrence  50013  read.  TimeStamp:  2015-05-31 23:03:23"
+"27" "50014  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:23"
+"28" "occurrence  50014  read.  TimeStamp:  2015-05-31 23:03:23"
+"29" "50015  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 23:03:24"
+"30" "occurrence  50015  read.  TimeStamp:  2015-05-31 23:03:24"

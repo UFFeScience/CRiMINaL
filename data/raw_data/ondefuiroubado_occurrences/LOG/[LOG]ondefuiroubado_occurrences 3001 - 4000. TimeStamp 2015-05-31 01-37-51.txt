@@ -1,0 +1,1730 @@
+"LOG"
+"1" "occurrence  3001  read.  TimeStamp:  2015-05-31 01:22:50"
+"2" "occurrence  3002  read.  TimeStamp:  2015-05-31 01:22:51"
+"3" "occurrence  3003  read.  TimeStamp:  2015-05-31 01:22:54"
+"4" "occurrence  3004  read.  TimeStamp:  2015-05-31 01:22:55"
+"5" "occurrence  3005  read.  TimeStamp:  2015-05-31 01:22:57"
+"6" "occurrence  3006  read.  TimeStamp:  2015-05-31 01:22:58"
+"7" "occurrence  3007  read.  TimeStamp:  2015-05-31 01:23:01"
+"8" "3008  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:23:02"
+"9" "occurrence  3008  read.  TimeStamp:  2015-05-31 01:23:02"
+"10" "occurrence  3009  read.  TimeStamp:  2015-05-31 01:23:03"
+"11" "occurrence  3010  read.  TimeStamp:  2015-05-31 01:23:04"
+"12" "occurrence  3011  read.  TimeStamp:  2015-05-31 01:23:05"
+"13" "occurrence  3012  read.  TimeStamp:  2015-05-31 01:23:07"
+"14" "occurrence  3013  read.  TimeStamp:  2015-05-31 01:23:08"
+"15" "occurrence  3014  read.  TimeStamp:  2015-05-31 01:23:10"
+"16" "occurrence  3015  read.  TimeStamp:  2015-05-31 01:23:11"
+"17" "occurrence  3016  read.  TimeStamp:  2015-05-31 01:23:12"
+"18" "occurrence  3017  read.  TimeStamp:  2015-05-31 01:23:13"
+"19" "occurrence  3018  read.  TimeStamp:  2015-05-31 01:23:14"
+"20" "occurrence  3019  read.  TimeStamp:  2015-05-31 01:23:15"
+"21" "occurrence  3020  read.  TimeStamp:  2015-05-31 01:23:16"
+"22" "occurrence  3021  read.  TimeStamp:  2015-05-31 01:23:17"
+"23" "occurrence  3022  read.  TimeStamp:  2015-05-31 01:23:18"
+"24" "occurrence  3023  read.  TimeStamp:  2015-05-31 01:23:19"
+"25" "occurrence  3024  read.  TimeStamp:  2015-05-31 01:23:21"
+"26" "occurrence  3025  read.  TimeStamp:  2015-05-31 01:23:22"
+"27" "occurrence  3026  read.  TimeStamp:  2015-05-31 01:23:23"
+"28" "occurrence  3027  read.  TimeStamp:  2015-05-31 01:23:24"
+"29" "occurrence  3028  read.  TimeStamp:  2015-05-31 01:23:26"
+"30" "occurrence  3029  read.  TimeStamp:  2015-05-31 01:23:27"
+"31" "occurrence  3030  read.  TimeStamp:  2015-05-31 01:23:28"
+"32" "occurrence  3031  read.  TimeStamp:  2015-05-31 01:23:29"
+"33" "occurrence  3032  read.  TimeStamp:  2015-05-31 01:23:30"
+"34" "occurrence  3033  read.  TimeStamp:  2015-05-31 01:23:31"
+"35" "occurrence  3034  read.  TimeStamp:  2015-05-31 01:23:32"
+"36" "occurrence  3035  read.  TimeStamp:  2015-05-31 01:23:34"
+"37" "occurrence  3036  read.  TimeStamp:  2015-05-31 01:23:36"
+"38" "occurrence  3037  read.  TimeStamp:  2015-05-31 01:23:37"
+"39" "occurrence  3038  read.  TimeStamp:  2015-05-31 01:23:38"
+"40" "occurrence  3039  read.  TimeStamp:  2015-05-31 01:23:39"
+"41" "occurrence  3040  read.  TimeStamp:  2015-05-31 01:23:40"
+"42" "occurrence  3041  read.  TimeStamp:  2015-05-31 01:23:41"
+"43" "3042  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:23:42"
+"44" "occurrence  3042  read.  TimeStamp:  2015-05-31 01:23:42"
+"45" "occurrence  3043  read.  TimeStamp:  2015-05-31 01:23:43"
+"46" "occurrence  3044  read.  TimeStamp:  2015-05-31 01:23:45"
+"47" "occurrence  3045  read.  TimeStamp:  2015-05-31 01:23:46"
+"48" "occurrence  3046  read.  TimeStamp:  2015-05-31 01:23:47"
+"49" "occurrence  3047  read.  TimeStamp:  2015-05-31 01:23:48"
+"50" "occurrence  3048  read.  TimeStamp:  2015-05-31 01:23:49"
+"51" "occurrence  3049  read.  TimeStamp:  2015-05-31 01:23:56"
+"52" "occurrence  3050  read.  TimeStamp:  2015-05-31 01:23:57"
+"53" "occurrence  3051  read.  TimeStamp:  2015-05-31 01:23:58"
+"54" "occurrence  3052  read.  TimeStamp:  2015-05-31 01:24:00"
+"55" "occurrence  3053  read.  TimeStamp:  2015-05-31 01:24:01"
+"56" "occurrence  3054  read.  TimeStamp:  2015-05-31 01:24:02"
+"57" "occurrence  3055  read.  TimeStamp:  2015-05-31 01:24:03"
+"58" "occurrence  3056  read.  TimeStamp:  2015-05-31 01:24:04"
+"59" "occurrence  3057  read.  TimeStamp:  2015-05-31 01:24:05"
+"60" "occurrence  3058  read.  TimeStamp:  2015-05-31 01:24:06"
+"61" "occurrence  3059  read.  TimeStamp:  2015-05-31 01:24:07"
+"62" "occurrence  3060  read.  TimeStamp:  2015-05-31 01:24:08"
+"63" "occurrence  3061  read.  TimeStamp:  2015-05-31 01:24:09"
+"64" "occurrence  3062  read.  TimeStamp:  2015-05-31 01:24:10"
+"65" "occurrence  3063  read.  TimeStamp:  2015-05-31 01:24:11"
+"66" "occurrence  3064  read.  TimeStamp:  2015-05-31 01:24:12"
+"67" "occurrence  3065  read.  TimeStamp:  2015-05-31 01:24:13"
+"68" "occurrence  3066  read.  TimeStamp:  2015-05-31 01:24:15"
+"69" "occurrence  3067  read.  TimeStamp:  2015-05-31 01:24:16"
+"70" "occurrence  3068  read.  TimeStamp:  2015-05-31 01:24:17"
+"71" "occurrence  3069  read.  TimeStamp:  2015-05-31 01:24:18"
+"72" "occurrence  3070  read.  TimeStamp:  2015-05-31 01:24:19"
+"73" "occurrence  3071  read.  TimeStamp:  2015-05-31 01:24:20"
+"74" "occurrence  3072  read.  TimeStamp:  2015-05-31 01:24:21"
+"75" "occurrence  3073  read.  TimeStamp:  2015-05-31 01:24:22"
+"76" "occurrence  3074  read.  TimeStamp:  2015-05-31 01:24:23"
+"77" "occurrence  3075  read.  TimeStamp:  2015-05-31 01:24:24"
+"78" "occurrence  3076  read.  TimeStamp:  2015-05-31 01:24:25"
+"79" "occurrence  3077  read.  TimeStamp:  2015-05-31 01:24:26"
+"80" "occurrence  3078  read.  TimeStamp:  2015-05-31 01:24:27"
+"81" "occurrence  3079  read.  TimeStamp:  2015-05-31 01:24:28"
+"82" "occurrence  3080  read.  TimeStamp:  2015-05-31 01:24:29"
+"83" "occurrence  3081  read.  TimeStamp:  2015-05-31 01:24:30"
+"84" "occurrence  3082  read.  TimeStamp:  2015-05-31 01:24:31"
+"85" "occurrence  3083  read.  TimeStamp:  2015-05-31 01:24:32"
+"86" "occurrence  3084  read.  TimeStamp:  2015-05-31 01:24:33"
+"87" "occurrence  3085  read.  TimeStamp:  2015-05-31 01:24:35"
+"88" "occurrence  3086  read.  TimeStamp:  2015-05-31 01:24:36"
+"89" "occurrence  3087  read.  TimeStamp:  2015-05-31 01:24:38"
+"90" "occurrence  3088  read.  TimeStamp:  2015-05-31 01:24:39"
+"91" "occurrence  3089  read.  TimeStamp:  2015-05-31 01:24:40"
+"92" "occurrence  3090  read.  TimeStamp:  2015-05-31 01:24:41"
+"93" "occurrence  3091  read.  TimeStamp:  2015-05-31 01:24:42"
+"94" "occurrence  3092  read.  TimeStamp:  2015-05-31 01:24:43"
+"95" "occurrence  3093  read.  TimeStamp:  2015-05-31 01:24:44"
+"96" "occurrence  3094  read.  TimeStamp:  2015-05-31 01:24:46"
+"97" "occurrence  3095  read.  TimeStamp:  2015-05-31 01:24:47"
+"98" "occurrence  3096  read.  TimeStamp:  2015-05-31 01:24:48"
+"99" "occurrence  3097  read.  TimeStamp:  2015-05-31 01:24:49"
+"100" "occurrence  3098  read.  TimeStamp:  2015-05-31 01:24:50"
+"101" "occurrence  3099  read.  TimeStamp:  2015-05-31 01:24:51"
+"102" "occurrence  3100  read.  TimeStamp:  2015-05-31 01:24:52"
+"103" "occurrence  3101  read.  TimeStamp:  2015-05-31 01:24:53"
+"104" "occurrence  3102  read.  TimeStamp:  2015-05-31 01:24:54"
+"105" "occurrence  3103  read.  TimeStamp:  2015-05-31 01:24:55"
+"106" "occurrence  3104  read.  TimeStamp:  2015-05-31 01:24:56"
+"107" "occurrence  3105  read.  TimeStamp:  2015-05-31 01:24:57"
+"108" "occurrence  3106  read.  TimeStamp:  2015-05-31 01:24:58"
+"109" "occurrence  3107  read.  TimeStamp:  2015-05-31 01:24:59"
+"110" "occurrence  3108  read.  TimeStamp:  2015-05-31 01:25:00"
+"111" "occurrence  3109  read.  TimeStamp:  2015-05-31 01:25:01"
+"112" "occurrence  3110  read.  TimeStamp:  2015-05-31 01:25:02"
+"113" "occurrence  3111  read.  TimeStamp:  2015-05-31 01:25:03"
+"114" "occurrence  3112  read.  TimeStamp:  2015-05-31 01:25:05"
+"115" "occurrence  3113  read.  TimeStamp:  2015-05-31 01:25:06"
+"116" "occurrence  3114  read.  TimeStamp:  2015-05-31 01:25:07"
+"117" "occurrence  3115  read.  TimeStamp:  2015-05-31 01:25:08"
+"118" "occurrence  3116  read.  TimeStamp:  2015-05-31 01:25:09"
+"119" "occurrence  3117  read.  TimeStamp:  2015-05-31 01:25:10"
+"120" "occurrence  3118  read.  TimeStamp:  2015-05-31 01:25:11"
+"121" "occurrence  3119  read.  TimeStamp:  2015-05-31 01:25:12"
+"122" "occurrence  3120  read.  TimeStamp:  2015-05-31 01:25:13"
+"123" "occurrence  3121  read.  TimeStamp:  2015-05-31 01:25:14"
+"124" "occurrence  3122  read.  TimeStamp:  2015-05-31 01:25:15"
+"125" "occurrence  3123  read.  TimeStamp:  2015-05-31 01:25:16"
+"126" "occurrence  3124  read.  TimeStamp:  2015-05-31 01:25:17"
+"127" "occurrence  3125  read.  TimeStamp:  2015-05-31 01:25:18"
+"128" "occurrence  3126  read.  TimeStamp:  2015-05-31 01:25:19"
+"129" "occurrence  3127  read.  TimeStamp:  2015-05-31 01:25:20"
+"130" "occurrence  3128  read.  TimeStamp:  2015-05-31 01:25:21"
+"131" "occurrence  3129  read.  TimeStamp:  2015-05-31 01:25:23"
+"132" "occurrence  3130  read.  TimeStamp:  2015-05-31 01:25:24"
+"133" "occurrence  3131  read.  TimeStamp:  2015-05-31 01:25:25"
+"134" "occurrence  3132  read.  TimeStamp:  2015-05-31 01:25:26"
+"135" "occurrence  3133  read.  TimeStamp:  2015-05-31 01:25:27"
+"136" "occurrence  3134  read.  TimeStamp:  2015-05-31 01:25:28"
+"137" "occurrence  3135  read.  TimeStamp:  2015-05-31 01:25:29"
+"138" "3136  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:25:30"
+"139" "occurrence  3136  read.  TimeStamp:  2015-05-31 01:25:30"
+"140" "occurrence  3137  read.  TimeStamp:  2015-05-31 01:25:31"
+"141" "occurrence  3138  read.  TimeStamp:  2015-05-31 01:25:32"
+"142" "occurrence  3139  read.  TimeStamp:  2015-05-31 01:25:33"
+"143" "occurrence  3140  read.  TimeStamp:  2015-05-31 01:25:34"
+"144" "occurrence  3141  read.  TimeStamp:  2015-05-31 01:25:35"
+"145" "occurrence  3142  read.  TimeStamp:  2015-05-31 01:25:36"
+"146" "occurrence  3143  read.  TimeStamp:  2015-05-31 01:25:38"
+"147" "occurrence  3144  read.  TimeStamp:  2015-05-31 01:25:39"
+"148" "occurrence  3145  read.  TimeStamp:  2015-05-31 01:25:40"
+"149" "occurrence  3146  read.  TimeStamp:  2015-05-31 01:25:41"
+"150" "occurrence  3147  read.  TimeStamp:  2015-05-31 01:25:42"
+"151" "occurrence  3148  read.  TimeStamp:  2015-05-31 01:25:43"
+"152" "occurrence  3149  read.  TimeStamp:  2015-05-31 01:25:44"
+"153" "occurrence  3150  read.  TimeStamp:  2015-05-31 01:25:45"
+"154" "occurrence  3151  read.  TimeStamp:  2015-05-31 01:25:46"
+"155" "occurrence  3152  read.  TimeStamp:  2015-05-31 01:25:47"
+"156" "occurrence  3153  read.  TimeStamp:  2015-05-31 01:25:48"
+"157" "occurrence  3154  read.  TimeStamp:  2015-05-31 01:25:49"
+"158" "occurrence  3155  read.  TimeStamp:  2015-05-31 01:25:51"
+"159" "occurrence  3156  read.  TimeStamp:  2015-05-31 01:25:52"
+"160" "occurrence  3157  read.  TimeStamp:  2015-05-31 01:25:53"
+"161" "occurrence  3158  read.  TimeStamp:  2015-05-31 01:25:54"
+"162" "occurrence  3159  read.  TimeStamp:  2015-05-31 01:25:55"
+"163" "occurrence  3160  read.  TimeStamp:  2015-05-31 01:25:56"
+"164" "occurrence  3161  read.  TimeStamp:  2015-05-31 01:25:57"
+"165" "occurrence  3162  read.  TimeStamp:  2015-05-31 01:25:58"
+"166" "occurrence  3163  read.  TimeStamp:  2015-05-31 01:25:59"
+"167" "occurrence  3164  read.  TimeStamp:  2015-05-31 01:26:00"
+"168" "3165  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:26:01"
+"169" "occurrence  3165  read.  TimeStamp:  2015-05-31 01:26:01"
+"170" "occurrence  3166  read.  TimeStamp:  2015-05-31 01:26:02"
+"171" "occurrence  3167  read.  TimeStamp:  2015-05-31 01:26:04"
+"172" "occurrence  3168  read.  TimeStamp:  2015-05-31 01:26:05"
+"173" "occurrence  3169  read.  TimeStamp:  2015-05-31 01:26:06"
+"174" "occurrence  3170  read.  TimeStamp:  2015-05-31 01:26:07"
+"175" "occurrence  3171  read.  TimeStamp:  2015-05-31 01:26:08"
+"176" "occurrence  3172  read.  TimeStamp:  2015-05-31 01:26:09"
+"177" "occurrence  3173  read.  TimeStamp:  2015-05-31 01:26:10"
+"178" "occurrence  3174  read.  TimeStamp:  2015-05-31 01:26:11"
+"179" "occurrence  3175  read.  TimeStamp:  2015-05-31 01:26:12"
+"180" "occurrence  3176  read.  TimeStamp:  2015-05-31 01:26:13"
+"181" "occurrence  3177  read.  TimeStamp:  2015-05-31 01:26:14"
+"182" "occurrence  3178  read.  TimeStamp:  2015-05-31 01:26:15"
+"183" "occurrence  3179  read.  TimeStamp:  2015-05-31 01:26:16"
+"184" "occurrence  3180  read.  TimeStamp:  2015-05-31 01:26:17"
+"185" "occurrence  3181  read.  TimeStamp:  2015-05-31 01:26:18"
+"186" "occurrence  3182  read.  TimeStamp:  2015-05-31 01:26:19"
+"187" "occurrence  3183  read.  TimeStamp:  2015-05-31 01:26:20"
+"188" "occurrence  3184  read.  TimeStamp:  2015-05-31 01:26:24"
+"189" "occurrence  3185  read.  TimeStamp:  2015-05-31 01:26:25"
+"190" "occurrence  3186  read.  TimeStamp:  2015-05-31 01:26:26"
+"191" "occurrence  3187  read.  TimeStamp:  2015-05-31 01:26:27"
+"192" "occurrence  3188  read.  TimeStamp:  2015-05-31 01:26:28"
+"193" "occurrence  3189  read.  TimeStamp:  2015-05-31 01:26:29"
+"194" "occurrence  3190  read.  TimeStamp:  2015-05-31 01:26:30"
+"195" "3191  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:26:31"
+"196" "occurrence  3191  read.  TimeStamp:  2015-05-31 01:26:31"
+"197" "occurrence  3192  read.  TimeStamp:  2015-05-31 01:26:32"
+"198" "occurrence  3193  read.  TimeStamp:  2015-05-31 01:26:33"
+"199" "occurrence  3194  read.  TimeStamp:  2015-05-31 01:26:34"
+"200" "occurrence  3195  read.  TimeStamp:  2015-05-31 01:26:35"
+"201" "occurrence  3196  read.  TimeStamp:  2015-05-31 01:26:36"
+"202" "occurrence  3197  read.  TimeStamp:  2015-05-31 01:26:38"
+"203" "occurrence  3198  read.  TimeStamp:  2015-05-31 01:26:39"
+"204" "occurrence  3199  read.  TimeStamp:  2015-05-31 01:26:40"
+"205" "occurrence  3200  read.  TimeStamp:  2015-05-31 01:26:41"
+"206" "occurrence  3201  read.  TimeStamp:  2015-05-31 01:26:42"
+"207" "occurrence  3202  read.  TimeStamp:  2015-05-31 01:26:43"
+"208" "occurrence  3203  read.  TimeStamp:  2015-05-31 01:26:44"
+"209" "occurrence  3204  read.  TimeStamp:  2015-05-31 01:26:45"
+"210" "occurrence  3205  read.  TimeStamp:  2015-05-31 01:26:46"
+"211" "occurrence  3206  read.  TimeStamp:  2015-05-31 01:26:48"
+"212" "occurrence  3207  read.  TimeStamp:  2015-05-31 01:26:49"
+"213" "occurrence  3208  read.  TimeStamp:  2015-05-31 01:26:50"
+"214" "occurrence  3209  read.  TimeStamp:  2015-05-31 01:26:51"
+"215" "occurrence  3210  read.  TimeStamp:  2015-05-31 01:26:53"
+"216" "occurrence  3211  read.  TimeStamp:  2015-05-31 01:26:54"
+"217" "occurrence  3212  read.  TimeStamp:  2015-05-31 01:26:55"
+"218" "occurrence  3213  read.  TimeStamp:  2015-05-31 01:26:56"
+"219" "occurrence  3214  read.  TimeStamp:  2015-05-31 01:26:57"
+"220" "occurrence  3215  read.  TimeStamp:  2015-05-31 01:26:58"
+"221" "occurrence  3216  read.  TimeStamp:  2015-05-31 01:26:59"
+"222" "occurrence  3217  read.  TimeStamp:  2015-05-31 01:27:01"
+"223" "occurrence  3218  read.  TimeStamp:  2015-05-31 01:27:02"
+"224" "occurrence  3219  read.  TimeStamp:  2015-05-31 01:27:03"
+"225" "occurrence  3220  read.  TimeStamp:  2015-05-31 01:27:04"
+"226" "occurrence  3221  read.  TimeStamp:  2015-05-31 01:27:05"
+"227" "occurrence  3222  read.  TimeStamp:  2015-05-31 01:27:06"
+"228" "occurrence  3223  read.  TimeStamp:  2015-05-31 01:27:07"
+"229" "occurrence  3224  read.  TimeStamp:  2015-05-31 01:27:09"
+"230" "occurrence  3225  read.  TimeStamp:  2015-05-31 01:27:10"
+"231" "occurrence  3226  read.  TimeStamp:  2015-05-31 01:27:11"
+"232" "occurrence  3227  read.  TimeStamp:  2015-05-31 01:27:12"
+"233" "occurrence  3228  read.  TimeStamp:  2015-05-31 01:27:13"
+"234" "occurrence  3229  read.  TimeStamp:  2015-05-31 01:27:14"
+"235" "occurrence  3230  read.  TimeStamp:  2015-05-31 01:27:15"
+"236" "occurrence  3231  read.  TimeStamp:  2015-05-31 01:27:16"
+"237" "occurrence  3232  read.  TimeStamp:  2015-05-31 01:27:17"
+"238" "occurrence  3233  read.  TimeStamp:  2015-05-31 01:27:18"
+"239" "occurrence  3234  read.  TimeStamp:  2015-05-31 01:27:20"
+"240" "occurrence  3235  read.  TimeStamp:  2015-05-31 01:27:21"
+"241" "occurrence  3236  read.  TimeStamp:  2015-05-31 01:27:22"
+"242" "occurrence  3237  read.  TimeStamp:  2015-05-31 01:27:23"
+"243" "occurrence  3238  read.  TimeStamp:  2015-05-31 01:27:24"
+"244" "occurrence  3239  read.  TimeStamp:  2015-05-31 01:27:38"
+"245" "occurrence  3240  read.  TimeStamp:  2015-05-31 01:27:39"
+"246" "occurrence  3241  read.  TimeStamp:  2015-05-31 01:27:40"
+"247" "occurrence  3242  read.  TimeStamp:  2015-05-31 01:27:41"
+"248" "occurrence  3243  read.  TimeStamp:  2015-05-31 01:27:42"
+"249" "occurrence  3244  read.  TimeStamp:  2015-05-31 01:27:43"
+"250" "occurrence  3245  read.  TimeStamp:  2015-05-31 01:27:44"
+"251" "occurrence  3246  read.  TimeStamp:  2015-05-31 01:27:45"
+"252" "occurrence  3247  read.  TimeStamp:  2015-05-31 01:27:46"
+"253" "occurrence  3248  read.  TimeStamp:  2015-05-31 01:27:48"
+"254" "occurrence  3249  read.  TimeStamp:  2015-05-31 01:27:49"
+"255" "occurrence  3250  read.  TimeStamp:  2015-05-31 01:27:50"
+"256" "occurrence  3251  read.  TimeStamp:  2015-05-31 01:27:51"
+"257" "occurrence  3252  read.  TimeStamp:  2015-05-31 01:27:52"
+"258" "occurrence  3253  read.  TimeStamp:  2015-05-31 01:27:53"
+"259" "occurrence  3254  read.  TimeStamp:  2015-05-31 01:27:54"
+"260" "occurrence  3255  read.  TimeStamp:  2015-05-31 01:27:55"
+"261" "occurrence  3256  read.  TimeStamp:  2015-05-31 01:27:56"
+"262" "occurrence  3257  read.  TimeStamp:  2015-05-31 01:27:57"
+"263" "occurrence  3258  read.  TimeStamp:  2015-05-31 01:27:58"
+"264" "occurrence  3259  read.  TimeStamp:  2015-05-31 01:27:59"
+"265" "occurrence  3260  read.  TimeStamp:  2015-05-31 01:28:01"
+"266" "occurrence  3261  read.  TimeStamp:  2015-05-31 01:28:02"
+"267" "occurrence  3262  read.  TimeStamp:  2015-05-31 01:28:03"
+"268" "occurrence  3263  read.  TimeStamp:  2015-05-31 01:28:04"
+"269" "occurrence  3264  read.  TimeStamp:  2015-05-31 01:28:05"
+"270" "occurrence  3265  read.  TimeStamp:  2015-05-31 01:28:06"
+"271" "occurrence  3266  read.  TimeStamp:  2015-05-31 01:28:07"
+"272" "occurrence  3267  read.  TimeStamp:  2015-05-31 01:28:08"
+"273" "occurrence  3268  read.  TimeStamp:  2015-05-31 01:28:09"
+"274" "occurrence  3269  read.  TimeStamp:  2015-05-31 01:28:10"
+"275" "occurrence  3270  read.  TimeStamp:  2015-05-31 01:28:11"
+"276" "occurrence  3271  read.  TimeStamp:  2015-05-31 01:28:12"
+"277" "occurrence  3272  read.  TimeStamp:  2015-05-31 01:28:13"
+"278" "occurrence  3273  read.  TimeStamp:  2015-05-31 01:28:14"
+"279" "occurrence  3274  read.  TimeStamp:  2015-05-31 01:28:15"
+"280" "occurrence  3275  read.  TimeStamp:  2015-05-31 01:28:16"
+"281" "occurrence  3276  read.  TimeStamp:  2015-05-31 01:28:17"
+"282" "occurrence  3277  read.  TimeStamp:  2015-05-31 01:28:18"
+"283" "occurrence  3278  read.  TimeStamp:  2015-05-31 01:28:19"
+"284" "occurrence  3279  read.  TimeStamp:  2015-05-31 01:28:20"
+"285" "occurrence  3280  read.  TimeStamp:  2015-05-31 01:28:21"
+"286" "occurrence  3281  read.  TimeStamp:  2015-05-31 01:28:22"
+"287" "occurrence  3282  read.  TimeStamp:  2015-05-31 01:28:23"
+"288" "occurrence  3283  read.  TimeStamp:  2015-05-31 01:28:24"
+"289" "occurrence  3284  read.  TimeStamp:  2015-05-31 01:28:25"
+"290" "occurrence  3285  read.  TimeStamp:  2015-05-31 01:28:26"
+"291" "occurrence  3286  read.  TimeStamp:  2015-05-31 01:28:27"
+"292" "occurrence  3287  read.  TimeStamp:  2015-05-31 01:28:28"
+"293" "occurrence  3288  read.  TimeStamp:  2015-05-31 01:28:29"
+"294" "occurrence  3289  read.  TimeStamp:  2015-05-31 01:28:30"
+"295" "occurrence  3290  read.  TimeStamp:  2015-05-31 01:28:31"
+"296" "occurrence  3291  read.  TimeStamp:  2015-05-31 01:28:32"
+"297" "occurrence  3292  read.  TimeStamp:  2015-05-31 01:28:33"
+"298" "occurrence  3293  read.  TimeStamp:  2015-05-31 01:28:34"
+"299" "occurrence  3294  read.  TimeStamp:  2015-05-31 01:28:35"
+"300" "occurrence  3295  read.  TimeStamp:  2015-05-31 01:28:36"
+"301" "occurrence  3296  read.  TimeStamp:  2015-05-31 01:28:37"
+"302" "occurrence  3297  read.  TimeStamp:  2015-05-31 01:28:38"
+"303" "occurrence  3298  read.  TimeStamp:  2015-05-31 01:28:39"
+"304" "occurrence  3299  read.  TimeStamp:  2015-05-31 01:28:40"
+"305" "occurrence  3300  read.  TimeStamp:  2015-05-31 01:28:41"
+"306" "occurrence  3301  read.  TimeStamp:  2015-05-31 01:28:42"
+"307" "occurrence  3302  read.  TimeStamp:  2015-05-31 01:28:44"
+"308" "occurrence  3303  read.  TimeStamp:  2015-05-31 01:28:45"
+"309" "occurrence  3304  read.  TimeStamp:  2015-05-31 01:28:45"
+"310" "occurrence  3305  read.  TimeStamp:  2015-05-31 01:28:47"
+"311" "occurrence  3306  read.  TimeStamp:  2015-05-31 01:28:47"
+"312" "occurrence  3307  read.  TimeStamp:  2015-05-31 01:28:49"
+"313" "occurrence  3308  read.  TimeStamp:  2015-05-31 01:28:49"
+"314" "occurrence  3309  read.  TimeStamp:  2015-05-31 01:28:50"
+"315" "occurrence  3310  read.  TimeStamp:  2015-05-31 01:28:51"
+"316" "occurrence  3311  read.  TimeStamp:  2015-05-31 01:28:52"
+"317" "occurrence  3312  read.  TimeStamp:  2015-05-31 01:28:54"
+"318" "occurrence  3313  read.  TimeStamp:  2015-05-31 01:28:55"
+"319" "occurrence  3314  read.  TimeStamp:  2015-05-31 01:28:56"
+"320" "occurrence  3315  read.  TimeStamp:  2015-05-31 01:28:57"
+"321" "occurrence  3316  read.  TimeStamp:  2015-05-31 01:28:58"
+"322" "occurrence  3317  read.  TimeStamp:  2015-05-31 01:28:59"
+"323" "occurrence  3318  read.  TimeStamp:  2015-05-31 01:29:00"
+"324" "occurrence  3319  read.  TimeStamp:  2015-05-31 01:29:01"
+"325" "occurrence  3320  read.  TimeStamp:  2015-05-31 01:29:02"
+"326" "occurrence  3321  read.  TimeStamp:  2015-05-31 01:29:03"
+"327" "occurrence  3322  read.  TimeStamp:  2015-05-31 01:29:04"
+"328" "occurrence  3323  read.  TimeStamp:  2015-05-31 01:29:05"
+"329" "occurrence  3324  read.  TimeStamp:  2015-05-31 01:29:06"
+"330" "occurrence  3325  read.  TimeStamp:  2015-05-31 01:29:07"
+"331" "occurrence  3326  read.  TimeStamp:  2015-05-31 01:29:08"
+"332" "occurrence  3327  read.  TimeStamp:  2015-05-31 01:29:09"
+"333" "occurrence  3328  read.  TimeStamp:  2015-05-31 01:29:10"
+"334" "occurrence  3329  read.  TimeStamp:  2015-05-31 01:29:11"
+"335" "occurrence  3330  read.  TimeStamp:  2015-05-31 01:29:12"
+"336" "occurrence  3331  read.  TimeStamp:  2015-05-31 01:29:13"
+"337" "occurrence  3332  read.  TimeStamp:  2015-05-31 01:29:14"
+"338" "occurrence  3333  read.  TimeStamp:  2015-05-31 01:29:15"
+"339" "occurrence  3334  read.  TimeStamp:  2015-05-31 01:29:16"
+"340" "occurrence  3335  read.  TimeStamp:  2015-05-31 01:29:18"
+"341" "occurrence  3336  read.  TimeStamp:  2015-05-31 01:29:19"
+"342" "occurrence  3337  read.  TimeStamp:  2015-05-31 01:29:20"
+"343" "occurrence  3338  read.  TimeStamp:  2015-05-31 01:29:21"
+"344" "occurrence  3339  read.  TimeStamp:  2015-05-31 01:29:22"
+"345" "occurrence  3340  read.  TimeStamp:  2015-05-31 01:29:23"
+"346" "occurrence  3341  read.  TimeStamp:  2015-05-31 01:29:24"
+"347" "occurrence  3342  read.  TimeStamp:  2015-05-31 01:29:25"
+"348" "occurrence  3343  read.  TimeStamp:  2015-05-31 01:29:26"
+"349" "occurrence  3344  read.  TimeStamp:  2015-05-31 01:29:27"
+"350" "occurrence  3345  read.  TimeStamp:  2015-05-31 01:29:28"
+"351" "occurrence  3346  read.  TimeStamp:  2015-05-31 01:29:29"
+"352" "occurrence  3347  read.  TimeStamp:  2015-05-31 01:29:31"
+"353" "occurrence  3348  read.  TimeStamp:  2015-05-31 01:29:32"
+"354" "occurrence  3349  read.  TimeStamp:  2015-05-31 01:29:33"
+"355" "occurrence  3350  read.  TimeStamp:  2015-05-31 01:29:34"
+"356" "occurrence  3351  read.  TimeStamp:  2015-05-31 01:29:35"
+"357" "occurrence  3352  read.  TimeStamp:  2015-05-31 01:29:36"
+"358" "occurrence  3353  read.  TimeStamp:  2015-05-31 01:29:37"
+"359" "occurrence  3354  read.  TimeStamp:  2015-05-31 01:29:38"
+"360" "occurrence  3355  read.  TimeStamp:  2015-05-31 01:29:39"
+"361" "occurrence  3356  read.  TimeStamp:  2015-05-31 01:29:40"
+"362" "occurrence  3357  read.  TimeStamp:  2015-05-31 01:29:41"
+"363" "occurrence  3358  read.  TimeStamp:  2015-05-31 01:29:42"
+"364" "occurrence  3359  read.  TimeStamp:  2015-05-31 01:29:43"
+"365" "occurrence  3360  read.  TimeStamp:  2015-05-31 01:29:44"
+"366" "occurrence  3361  read.  TimeStamp:  2015-05-31 01:29:46"
+"367" "occurrence  3362  read.  TimeStamp:  2015-05-31 01:29:47"
+"368" "occurrence  3363  read.  TimeStamp:  2015-05-31 01:29:48"
+"369" "occurrence  3364  read.  TimeStamp:  2015-05-31 01:29:49"
+"370" "occurrence  3365  read.  TimeStamp:  2015-05-31 01:29:50"
+"371" "occurrence  3366  read.  TimeStamp:  2015-05-31 01:29:51"
+"372" "occurrence  3367  read.  TimeStamp:  2015-05-31 01:29:52"
+"373" "occurrence  3368  read.  TimeStamp:  2015-05-31 01:29:53"
+"374" "occurrence  3369  read.  TimeStamp:  2015-05-31 01:29:54"
+"375" "occurrence  3370  read.  TimeStamp:  2015-05-31 01:29:55"
+"376" "occurrence  3371  read.  TimeStamp:  2015-05-31 01:29:56"
+"377" "occurrence  3372  read.  TimeStamp:  2015-05-31 01:29:57"
+"378" "occurrence  3373  read.  TimeStamp:  2015-05-31 01:29:58"
+"379" "occurrence  3374  read.  TimeStamp:  2015-05-31 01:29:59"
+"380" "occurrence  3375  read.  TimeStamp:  2015-05-31 01:30:00"
+"381" "occurrence  3376  read.  TimeStamp:  2015-05-31 01:30:01"
+"382" "occurrence  3377  read.  TimeStamp:  2015-05-31 01:30:03"
+"383" "occurrence  3378  read.  TimeStamp:  2015-05-31 01:30:04"
+"384" "occurrence  3379  read.  TimeStamp:  2015-05-31 01:30:05"
+"385" "occurrence  3380  read.  TimeStamp:  2015-05-31 01:30:06"
+"386" "occurrence  3381  read.  TimeStamp:  2015-05-31 01:30:07"
+"387" "occurrence  3382  read.  TimeStamp:  2015-05-31 01:30:08"
+"388" "occurrence  3383  read.  TimeStamp:  2015-05-31 01:30:09"
+"389" "occurrence  3384  read.  TimeStamp:  2015-05-31 01:30:10"
+"390" "occurrence  3385  read.  TimeStamp:  2015-05-31 01:30:11"
+"391" "occurrence  3386  read.  TimeStamp:  2015-05-31 01:30:12"
+"392" "occurrence  3387  read.  TimeStamp:  2015-05-31 01:30:13"
+"393" "occurrence  3388  read.  TimeStamp:  2015-05-31 01:30:14"
+"394" "occurrence  3389  read.  TimeStamp:  2015-05-31 01:30:15"
+"395" "occurrence  3390  read.  TimeStamp:  2015-05-31 01:30:16"
+"396" "occurrence  3391  read.  TimeStamp:  2015-05-31 01:30:17"
+"397" "occurrence  3392  read.  TimeStamp:  2015-05-31 01:30:18"
+"398" "occurrence  3393  read.  TimeStamp:  2015-05-31 01:30:19"
+"399" "occurrence  3394  read.  TimeStamp:  2015-05-31 01:30:21"
+"400" "occurrence  3395  read.  TimeStamp:  2015-05-31 01:30:22"
+"401" "occurrence  3396  read.  TimeStamp:  2015-05-31 01:30:23"
+"402" "occurrence  3397  read.  TimeStamp:  2015-05-31 01:30:24"
+"403" "occurrence  3398  read.  TimeStamp:  2015-05-31 01:30:25"
+"404" "occurrence  3399  read.  TimeStamp:  2015-05-31 01:30:26"
+"405" "occurrence  3400  read.  TimeStamp:  2015-05-31 01:30:27"
+"406" "occurrence  3401  read.  TimeStamp:  2015-05-31 01:30:28"
+"407" "occurrence  3402  read.  TimeStamp:  2015-05-31 01:30:29"
+"408" "occurrence  3403  read.  TimeStamp:  2015-05-31 01:30:30"
+"409" "occurrence  3404  read.  TimeStamp:  2015-05-31 01:30:31"
+"410" "occurrence  3405  read.  TimeStamp:  2015-05-31 01:30:32"
+"411" "occurrence  3406  read.  TimeStamp:  2015-05-31 01:30:33"
+"412" "occurrence  3407  read.  TimeStamp:  2015-05-31 01:30:34"
+"413" "occurrence  3408  read.  TimeStamp:  2015-05-31 01:30:35"
+"414" "occurrence  3409  read.  TimeStamp:  2015-05-31 01:30:37"
+"415" "occurrence  3410  read.  TimeStamp:  2015-05-31 01:30:38"
+"416" "occurrence  3411  read.  TimeStamp:  2015-05-31 01:30:39"
+"417" "occurrence  3412  read.  TimeStamp:  2015-05-31 01:30:40"
+"418" "occurrence  3413  read.  TimeStamp:  2015-05-31 01:30:41"
+"419" "occurrence  3414  read.  TimeStamp:  2015-05-31 01:30:42"
+"420" "occurrence  3415  read.  TimeStamp:  2015-05-31 01:30:43"
+"421" "occurrence  3416  read.  TimeStamp:  2015-05-31 01:30:44"
+"422" "occurrence  3417  read.  TimeStamp:  2015-05-31 01:30:45"
+"423" "occurrence  3418  read.  TimeStamp:  2015-05-31 01:30:46"
+"424" "occurrence  3419  read.  TimeStamp:  2015-05-31 01:30:47"
+"425" "occurrence  3420  read.  TimeStamp:  2015-05-31 01:30:48"
+"426" "occurrence  3421  read.  TimeStamp:  2015-05-31 01:30:51"
+"427" "occurrence  3422  read.  TimeStamp:  2015-05-31 01:30:52"
+"428" "occurrence  3423  read.  TimeStamp:  2015-05-31 01:30:53"
+"429" "occurrence  3424  read.  TimeStamp:  2015-05-31 01:30:54"
+"430" "occurrence  3425  read.  TimeStamp:  2015-05-31 01:30:55"
+"431" "occurrence  3426  read.  TimeStamp:  2015-05-31 01:30:56"
+"432" "occurrence  3427  read.  TimeStamp:  2015-05-31 01:30:58"
+"433" "occurrence  3428  read.  TimeStamp:  2015-05-31 01:30:59"
+"434" "occurrence  3429  read.  TimeStamp:  2015-05-31 01:31:00"
+"435" "occurrence  3430  read.  TimeStamp:  2015-05-31 01:31:01"
+"436" "occurrence  3431  read.  TimeStamp:  2015-05-31 01:31:04"
+"437" "occurrence  3432  read.  TimeStamp:  2015-05-31 01:31:05"
+"438" "occurrence  3433  read.  TimeStamp:  2015-05-31 01:31:06"
+"439" "occurrence  3434  read.  TimeStamp:  2015-05-31 01:31:08"
+"440" "occurrence  3435  read.  TimeStamp:  2015-05-31 01:31:09"
+"441" "occurrence  3436  read.  TimeStamp:  2015-05-31 01:31:10"
+"442" "occurrence  3437  read.  TimeStamp:  2015-05-31 01:31:11"
+"443" "occurrence  3438  read.  TimeStamp:  2015-05-31 01:31:12"
+"444" "occurrence  3439  read.  TimeStamp:  2015-05-31 01:31:13"
+"445" "occurrence  3440  read.  TimeStamp:  2015-05-31 01:31:14"
+"446" "occurrence  3441  read.  TimeStamp:  2015-05-31 01:31:15"
+"447" "occurrence  3442  read.  TimeStamp:  2015-05-31 01:31:16"
+"448" "occurrence  3443  read.  TimeStamp:  2015-05-31 01:31:17"
+"449" "occurrence  3444  read.  TimeStamp:  2015-05-31 01:31:18"
+"450" "occurrence  3445  read.  TimeStamp:  2015-05-31 01:31:19"
+"451" "occurrence  3446  read.  TimeStamp:  2015-05-31 01:31:21"
+"452" "occurrence  3447  read.  TimeStamp:  2015-05-31 01:31:22"
+"453" "occurrence  3448  read.  TimeStamp:  2015-05-31 01:31:23"
+"454" "occurrence  3449  read.  TimeStamp:  2015-05-31 01:31:24"
+"455" "occurrence  3450  read.  TimeStamp:  2015-05-31 01:31:25"
+"456" "occurrence  3451  read.  TimeStamp:  2015-05-31 01:31:26"
+"457" "occurrence  3452  read.  TimeStamp:  2015-05-31 01:31:27"
+"458" "occurrence  3453  read.  TimeStamp:  2015-05-31 01:31:28"
+"459" "occurrence  3454  read.  TimeStamp:  2015-05-31 01:31:29"
+"460" "occurrence  3455  read.  TimeStamp:  2015-05-31 01:31:30"
+"461" "occurrence  3456  read.  TimeStamp:  2015-05-31 01:31:31"
+"462" "occurrence  3457  read.  TimeStamp:  2015-05-31 01:31:32"
+"463" "occurrence  3458  read.  TimeStamp:  2015-05-31 01:31:33"
+"464" "occurrence  3459  read.  TimeStamp:  2015-05-31 01:31:34"
+"465" "occurrence  3460  read.  TimeStamp:  2015-05-31 01:31:36"
+"466" "occurrence  3461  read.  TimeStamp:  2015-05-31 01:31:37"
+"467" "occurrence  3462  read.  TimeStamp:  2015-05-31 01:31:38"
+"468" "occurrence  3463  read.  TimeStamp:  2015-05-31 01:31:39"
+"469" "occurrence  3464  read.  TimeStamp:  2015-05-31 01:31:40"
+"470" "occurrence  3465  read.  TimeStamp:  2015-05-31 01:31:41"
+"471" "occurrence  3466  read.  TimeStamp:  2015-05-31 01:31:42"
+"472" "occurrence  3467  read.  TimeStamp:  2015-05-31 01:31:43"
+"473" "occurrence  3468  read.  TimeStamp:  2015-05-31 01:31:44"
+"474" "occurrence  3469  read.  TimeStamp:  2015-05-31 01:31:45"
+"475" "occurrence  3470  read.  TimeStamp:  2015-05-31 01:31:46"
+"476" "occurrence  3471  read.  TimeStamp:  2015-05-31 01:31:48"
+"477" "occurrence  3472  read.  TimeStamp:  2015-05-31 01:31:49"
+"478" "occurrence  3473  read.  TimeStamp:  2015-05-31 01:31:50"
+"479" "occurrence  3474  read.  TimeStamp:  2015-05-31 01:31:51"
+"480" "occurrence  3475  read.  TimeStamp:  2015-05-31 01:31:52"
+"481" "occurrence  3476  read.  TimeStamp:  2015-05-31 01:31:53"
+"482" "occurrence  3477  read.  TimeStamp:  2015-05-31 01:31:54"
+"483" "occurrence  3478  read.  TimeStamp:  2015-05-31 01:31:55"
+"484" "occurrence  3479  read.  TimeStamp:  2015-05-31 01:31:56"
+"485" "occurrence  3480  read.  TimeStamp:  2015-05-31 01:31:57"
+"486" "occurrence  3481  read.  TimeStamp:  2015-05-31 01:31:58"
+"487" "occurrence  3482  read.  TimeStamp:  2015-05-31 01:31:59"
+"488" "occurrence  3483  read.  TimeStamp:  2015-05-31 01:32:03"
+"489" "occurrence  3484  read.  TimeStamp:  2015-05-31 01:32:04"
+"490" "occurrence  3485  read.  TimeStamp:  2015-05-31 01:32:05"
+"491" "occurrence  3486  read.  TimeStamp:  2015-05-31 01:32:06"
+"492" "occurrence  3487  read.  TimeStamp:  2015-05-31 01:32:07"
+"493" "occurrence  3488  read.  TimeStamp:  2015-05-31 01:32:08"
+"494" "3489  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:32:09"
+"495" "occurrence  3489  read.  TimeStamp:  2015-05-31 01:32:09"
+"496" "occurrence  3490  read.  TimeStamp:  2015-05-31 01:32:10"
+"497" "occurrence  3491  read.  TimeStamp:  2015-05-31 01:32:11"
+"498" "occurrence  3492  read.  TimeStamp:  2015-05-31 01:32:12"
+"499" "occurrence  3493  read.  TimeStamp:  2015-05-31 01:32:13"
+"500" "occurrence  3494  read.  TimeStamp:  2015-05-31 01:32:14"
+"501" "occurrence  3495  read.  TimeStamp:  2015-05-31 01:32:15"
+"502" "occurrence  3496  read.  TimeStamp:  2015-05-31 01:32:17"
+"503" "3497  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error: failed to load HTTP resource
+
+  TimeStamp:  2015-05-31 01:32:18"
+"504" "occurrence  3497  read.  TimeStamp:  2015-05-31 01:32:18"
+"505" "occurrence  3498  read.  TimeStamp:  2015-05-31 01:32:19"
+"506" "occurrence  3499  read.  TimeStamp:  2015-05-31 01:32:20"
+"507" "occurrence  3500  read.  TimeStamp:  2015-05-31 01:32:21"
+"508" "occurrence  3501  read.  TimeStamp:  2015-05-31 01:32:22"
+"509" "occurrence  3502  read.  TimeStamp:  2015-05-31 01:32:23"
+"510" "occurrence  3503  read.  TimeStamp:  2015-05-31 01:32:24"
+"511" "occurrence  3504  read.  TimeStamp:  2015-05-31 01:32:25"
+"512" "occurrence  3505  read.  TimeStamp:  2015-05-31 01:32:26"
+"513" "occurrence  3506  read.  TimeStamp:  2015-05-31 01:32:27"
+"514" "occurrence  3507  read.  TimeStamp:  2015-05-31 01:32:28"
+"515" "occurrence  3508  read.  TimeStamp:  2015-05-31 01:32:29"
+"516" "occurrence  3509  read.  TimeStamp:  2015-05-31 01:32:30"
+"517" "occurrence  3510  read.  TimeStamp:  2015-05-31 01:32:31"
+"518" "occurrence  3511  read.  TimeStamp:  2015-05-31 01:32:32"
+"519" "occurrence  3512  read.  TimeStamp:  2015-05-31 01:32:33"
+"520" "occurrence  3513  read.  TimeStamp:  2015-05-31 01:32:34"
+"521" "occurrence  3514  read.  TimeStamp:  2015-05-31 01:32:36"
+"522" "occurrence  3515  read.  TimeStamp:  2015-05-31 01:32:37"
+"523" "occurrence  3516  read.  TimeStamp:  2015-05-31 01:32:38"
+"524" "occurrence  3517  read.  TimeStamp:  2015-05-31 01:32:39"
+"525" "occurrence  3518  read.  TimeStamp:  2015-05-31 01:32:40"
+"526" "occurrence  3519  read.  TimeStamp:  2015-05-31 01:32:41"
+"527" "occurrence  3520  read.  TimeStamp:  2015-05-31 01:32:42"
+"528" "occurrence  3521  read.  TimeStamp:  2015-05-31 01:32:43"
+"529" "occurrence  3522  read.  TimeStamp:  2015-05-31 01:32:45"
+"530" "occurrence  3523  read.  TimeStamp:  2015-05-31 01:32:46"
+"531" "occurrence  3524  read.  TimeStamp:  2015-05-31 01:32:47"
+"532" "occurrence  3525  read.  TimeStamp:  2015-05-31 01:32:48"
+"533" "occurrence  3526  read.  TimeStamp:  2015-05-31 01:32:49"
+"534" "occurrence  3527  read.  TimeStamp:  2015-05-31 01:32:50"
+"535" "occurrence  3528  read.  TimeStamp:  2015-05-31 01:32:51"
+"536" "occurrence  3529  read.  TimeStamp:  2015-05-31 01:32:52"
+"537" "occurrence  3530  read.  TimeStamp:  2015-05-31 01:32:53"
+"538" "occurrence  3531  read.  TimeStamp:  2015-05-31 01:32:54"
+"539" "occurrence  3532  read.  TimeStamp:  2015-05-31 01:32:55"
+"540" "occurrence  3533  read.  TimeStamp:  2015-05-31 01:32:56"
+"541" "occurrence  3534  read.  TimeStamp:  2015-05-31 01:32:57"
+"542" "occurrence  3535  read.  TimeStamp:  2015-05-31 01:32:58"
+"543" "occurrence  3536  read.  TimeStamp:  2015-05-31 01:33:00"
+"544" "occurrence  3537  read.  TimeStamp:  2015-05-31 01:33:01"
+"545" "occurrence  3538  read.  TimeStamp:  2015-05-31 01:33:02"
+"546" "occurrence  3539  read.  TimeStamp:  2015-05-31 01:33:03"
+"547" "occurrence  3540  read.  TimeStamp:  2015-05-31 01:33:04"
+"548" "occurrence  3541  read.  TimeStamp:  2015-05-31 01:33:05"
+"549" "occurrence  3542  read.  TimeStamp:  2015-05-31 01:33:06"
+"550" "occurrence  3543  read.  TimeStamp:  2015-05-31 01:33:07"
+"551" "occurrence  3544  read.  TimeStamp:  2015-05-31 01:33:08"
+"552" "occurrence  3545  read.  TimeStamp:  2015-05-31 01:33:09"
+"553" "occurrence  3546  read.  TimeStamp:  2015-05-31 01:33:11"
+"554" "occurrence  3547  read.  TimeStamp:  2015-05-31 01:33:12"
+"555" "occurrence  3548  read.  TimeStamp:  2015-05-31 01:33:13"
+"556" "occurrence  3549  read.  TimeStamp:  2015-05-31 01:33:14"
+"557" "occurrence  3550  read.  TimeStamp:  2015-05-31 01:33:15"
+"558" "occurrence  3551  read.  TimeStamp:  2015-05-31 01:33:16"
+"559" "occurrence  3552  read.  TimeStamp:  2015-05-31 01:33:17"
+"560" "occurrence  3553  read.  TimeStamp:  2015-05-31 01:33:18"
+"561" "occurrence  3554  read.  TimeStamp:  2015-05-31 01:33:19"
+"562" "occurrence  3555  read.  TimeStamp:  2015-05-31 01:33:20"
+"563" "occurrence  3556  read.  TimeStamp:  2015-05-31 01:33:21"
+"564" "occurrence  3557  read.  TimeStamp:  2015-05-31 01:33:22"
+"565" "occurrence  3558  read.  TimeStamp:  2015-05-31 01:33:23"
+"566" "occurrence  3559  read.  TimeStamp:  2015-05-31 01:33:24"
+"567" "occurrence  3560  read.  TimeStamp:  2015-05-31 01:33:26"
+"568" "occurrence  3561  read.  TimeStamp:  2015-05-31 01:33:27"
+"569" "occurrence  3562  read.  TimeStamp:  2015-05-31 01:33:28"
+"570" "occurrence  3563  read.  TimeStamp:  2015-05-31 01:33:29"
+"571" "occurrence  3564  read.  TimeStamp:  2015-05-31 01:33:30"
+"572" "occurrence  3565  read.  TimeStamp:  2015-05-31 01:33:31"
+"573" "occurrence  3566  read.  TimeStamp:  2015-05-31 01:33:33"
+"574" "occurrence  3567  read.  TimeStamp:  2015-05-31 01:33:34"
+"575" "occurrence  3568  read.  TimeStamp:  2015-05-31 01:33:35"
+"576" "occurrence  3569  read.  TimeStamp:  2015-05-31 01:33:36"
+"577" "occurrence  3570  read.  TimeStamp:  2015-05-31 01:33:37"
+"578" "occurrence  3571  read.  TimeStamp:  2015-05-31 01:33:38"
+"579" "occurrence  3572  read.  TimeStamp:  2015-05-31 01:33:39"
+"580" "occurrence  3573  read.  TimeStamp:  2015-05-31 01:33:40"
+"581" "occurrence  3574  read.  TimeStamp:  2015-05-31 01:33:41"
+"582" "occurrence  3575  read.  TimeStamp:  2015-05-31 01:33:42"
+"583" "occurrence  3576  read.  TimeStamp:  2015-05-31 01:33:43"
+"584" "occurrence  3577  read.  TimeStamp:  2015-05-31 01:33:44"
+"585" "occurrence  3578  read.  TimeStamp:  2015-05-31 01:33:45"
+"586" "occurrence  3579  read.  TimeStamp:  2015-05-31 01:33:46"
+"587" "occurrence  3580  read.  TimeStamp:  2015-05-31 01:33:47"
+"588" "occurrence  3581  read.  TimeStamp:  2015-05-31 01:33:48"
+"589" "occurrence  3582  read.  TimeStamp:  2015-05-31 01:33:49"
+"590" "occurrence  3583  read.  TimeStamp:  2015-05-31 01:33:50"
+"591" "occurrence  3584  read.  TimeStamp:  2015-05-31 01:33:51"
+"592" "occurrence  3585  read.  TimeStamp:  2015-05-31 01:33:52"
+"593" "occurrence  3586  read.  TimeStamp:  2015-05-31 01:33:53"
+"594" "occurrence  3587  read.  TimeStamp:  2015-05-31 01:33:54"
+"595" "occurrence  3588  read.  TimeStamp:  2015-05-31 01:33:56"
+"596" "occurrence  3589  read.  TimeStamp:  2015-05-31 01:33:57"
+"597" "occurrence  3590  read.  TimeStamp:  2015-05-31 01:33:58"
+"598" "occurrence  3591  read.  TimeStamp:  2015-05-31 01:33:59"
+"599" "occurrence  3592  read.  TimeStamp:  2015-05-31 01:34:00"
+"600" "occurrence  3593  read.  TimeStamp:  2015-05-31 01:34:01"
+"601" "occurrence  3594  read.  TimeStamp:  2015-05-31 01:34:02"
+"602" "occurrence  3595  read.  TimeStamp:  2015-05-31 01:34:03"
+"603" "occurrence  3596  read.  TimeStamp:  2015-05-31 01:34:31"
+"604" "occurrence  3597  read.  TimeStamp:  2015-05-31 01:34:32"
+"605" "occurrence  3598  read.  TimeStamp:  2015-05-31 01:34:33"
+"606" "occurrence  3599  read.  TimeStamp:  2015-05-31 01:34:34"
+"607" "occurrence  3600  read.  TimeStamp:  2015-05-31 01:34:35"
+"608" "occurrence  3601  read.  TimeStamp:  2015-05-31 01:34:36"
+"609" "occurrence  3602  read.  TimeStamp:  2015-05-31 01:34:38"
+"610" "occurrence  3603  read.  TimeStamp:  2015-05-31 01:34:39"
+"611" "occurrence  3604  read.  TimeStamp:  2015-05-31 01:34:40"
+"612" "occurrence  3605  read.  TimeStamp:  2015-05-31 01:34:41"
+"613" "occurrence  3606  read.  TimeStamp:  2015-05-31 01:34:42"
+"614" "occurrence  3607  read.  TimeStamp:  2015-05-31 01:34:43"
+"615" "occurrence  3608  read.  TimeStamp:  2015-05-31 01:34:44"
+"616" "occurrence  3609  read.  TimeStamp:  2015-05-31 01:34:45"
+"617" "occurrence  3610  read.  TimeStamp:  2015-05-31 01:34:46"
+"618" "occurrence  3611  read.  TimeStamp:  2015-05-31 01:34:47"
+"619" "occurrence  3612  read.  TimeStamp:  2015-05-31 01:34:48"
+"620" "occurrence  3613  read.  TimeStamp:  2015-05-31 01:34:49"
+"621" "occurrence  3614  read.  TimeStamp:  2015-05-31 01:34:50"
+"622" "occurrence  3615  read.  TimeStamp:  2015-05-31 01:34:51"
+"623" "occurrence  3616  read.  TimeStamp:  2015-05-31 01:34:53"
+"624" "occurrence  3617  read.  TimeStamp:  2015-05-31 01:34:54"
+"625" "occurrence  3618  read.  TimeStamp:  2015-05-31 01:34:56"
+"626" "occurrence  3619  read.  TimeStamp:  2015-05-31 01:34:57"
+"627" "occurrence  3620  read.  TimeStamp:  2015-05-31 01:34:58"
+"628" "occurrence  3621  read.  TimeStamp:  2015-05-31 01:34:59"
+"629" "occurrence  3622  read.  TimeStamp:  2015-05-31 01:35:00"
+"630" "occurrence  3623  read.  TimeStamp:  2015-05-31 01:35:01"
+"631" "occurrence  3624  read.  TimeStamp:  2015-05-31 01:35:02"
+"632" "occurrence  3625  read.  TimeStamp:  2015-05-31 01:35:03"
+"633" "occurrence  3626  read.  TimeStamp:  2015-05-31 01:35:04"
+"634" "occurrence  3627  read.  TimeStamp:  2015-05-31 01:35:05"
+"635" "occurrence  3628  read.  TimeStamp:  2015-05-31 01:35:06"
+"636" "occurrence  3629  read.  TimeStamp:  2015-05-31 01:35:07"
+"637" "occurrence  3630  read.  TimeStamp:  2015-05-31 01:35:09"
+"638" "occurrence  3631  read.  TimeStamp:  2015-05-31 01:35:10"
+"639" "occurrence  3632  read.  TimeStamp:  2015-05-31 01:35:11"
+"640" "3633  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:11"
+"641" "occurrence  3633  read.  TimeStamp:  2015-05-31 01:35:11"
+"642" "3634  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:12"
+"643" "occurrence  3634  read.  TimeStamp:  2015-05-31 01:35:12"
+"644" "occurrence  3635  read.  TimeStamp:  2015-05-31 01:35:13"
+"645" "occurrence  3636  read.  TimeStamp:  2015-05-31 01:35:14"
+"646" "occurrence  3637  read.  TimeStamp:  2015-05-31 01:35:15"
+"647" "occurrence  3638  read.  TimeStamp:  2015-05-31 01:35:16"
+"648" "3639  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:17"
+"649" "occurrence  3639  read.  TimeStamp:  2015-05-31 01:35:17"
+"650" "3640  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:17"
+"651" "occurrence  3640  read.  TimeStamp:  2015-05-31 01:35:17"
+"652" "3641  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:17"
+"653" "occurrence  3641  read.  TimeStamp:  2015-05-31 01:35:17"
+"654" "occurrence  3642  read.  TimeStamp:  2015-05-31 01:35:18"
+"655" "3643  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:19"
+"656" "occurrence  3643  read.  TimeStamp:  2015-05-31 01:35:19"
+"657" "occurrence  3644  read.  TimeStamp:  2015-05-31 01:35:20"
+"658" "3645  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:20"
+"659" "occurrence  3645  read.  TimeStamp:  2015-05-31 01:35:20"
+"660" "occurrence  3646  read.  TimeStamp:  2015-05-31 01:35:21"
+"661" "3647  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:22"
+"662" "occurrence  3647  read.  TimeStamp:  2015-05-31 01:35:22"
+"663" "occurrence  3648  read.  TimeStamp:  2015-05-31 01:35:23"
+"664" "3649  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:23"
+"665" "occurrence  3649  read.  TimeStamp:  2015-05-31 01:35:23"
+"666" "occurrence  3650  read.  TimeStamp:  2015-05-31 01:35:25"
+"667" "occurrence  3651  read.  TimeStamp:  2015-05-31 01:35:26"
+"668" "3652  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:26"
+"669" "occurrence  3652  read.  TimeStamp:  2015-05-31 01:35:26"
+"670" "3653  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:26"
+"671" "occurrence  3653  read.  TimeStamp:  2015-05-31 01:35:26"
+"672" "3654  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:27"
+"673" "occurrence  3654  read.  TimeStamp:  2015-05-31 01:35:27"
+"674" "occurrence  3655  read.  TimeStamp:  2015-05-31 01:35:28"
+"675" "occurrence  3656  read.  TimeStamp:  2015-05-31 01:35:29"
+"676" "occurrence  3657  read.  TimeStamp:  2015-05-31 01:35:30"
+"677" "3658  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:30"
+"678" "occurrence  3658  read.  TimeStamp:  2015-05-31 01:35:30"
+"679" "3659  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:31"
+"680" "occurrence  3659  read.  TimeStamp:  2015-05-31 01:35:31"
+"681" "3660  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:32"
+"682" "occurrence  3660  read.  TimeStamp:  2015-05-31 01:35:32"
+"683" "occurrence  3661  read.  TimeStamp:  2015-05-31 01:35:34"
+"684" "3662  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:34"
+"685" "occurrence  3662  read.  TimeStamp:  2015-05-31 01:35:34"
+"686" "3663  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:34"
+"687" "occurrence  3663  read.  TimeStamp:  2015-05-31 01:35:34"
+"688" "3664  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:35"
+"689" "occurrence  3664  read.  TimeStamp:  2015-05-31 01:35:35"
+"690" "3665  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:35"
+"691" "occurrence  3665  read.  TimeStamp:  2015-05-31 01:35:35"
+"692" "3666  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:36"
+"693" "occurrence  3666  read.  TimeStamp:  2015-05-31 01:35:36"
+"694" "3667  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:36"
+"695" "occurrence  3667  read.  TimeStamp:  2015-05-31 01:35:36"
+"696" "3668  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:36"
+"697" "occurrence  3668  read.  TimeStamp:  2015-05-31 01:35:36"
+"698" "3669  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:37"
+"699" "occurrence  3669  read.  TimeStamp:  2015-05-31 01:35:37"
+"700" "3670  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:38"
+"701" "occurrence  3670  read.  TimeStamp:  2015-05-31 01:35:38"
+"702" "3671  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:39"
+"703" "occurrence  3671  read.  TimeStamp:  2015-05-31 01:35:39"
+"704" "3672  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:39"
+"705" "occurrence  3672  read.  TimeStamp:  2015-05-31 01:35:39"
+"706" "3673  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:39"
+"707" "occurrence  3673  read.  TimeStamp:  2015-05-31 01:35:39"
+"708" "3674  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:40"
+"709" "occurrence  3674  read.  TimeStamp:  2015-05-31 01:35:40"
+"710" "3675  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:40"
+"711" "occurrence  3675  read.  TimeStamp:  2015-05-31 01:35:40"
+"712" "3676  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:41"
+"713" "occurrence  3676  read.  TimeStamp:  2015-05-31 01:35:41"
+"714" "3677  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:41"
+"715" "occurrence  3677  read.  TimeStamp:  2015-05-31 01:35:41"
+"716" "3678  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:41"
+"717" "occurrence  3678  read.  TimeStamp:  2015-05-31 01:35:41"
+"718" "3679  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:42"
+"719" "occurrence  3679  read.  TimeStamp:  2015-05-31 01:35:42"
+"720" "3680  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:42"
+"721" "occurrence  3680  read.  TimeStamp:  2015-05-31 01:35:42"
+"722" "3681  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:43"
+"723" "occurrence  3681  read.  TimeStamp:  2015-05-31 01:35:43"
+"724" "3682  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:43"
+"725" "occurrence  3682  read.  TimeStamp:  2015-05-31 01:35:43"
+"726" "3683  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:44"
+"727" "occurrence  3683  read.  TimeStamp:  2015-05-31 01:35:44"
+"728" "3684  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:44"
+"729" "occurrence  3684  read.  TimeStamp:  2015-05-31 01:35:44"
+"730" "3685  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:44"
+"731" "occurrence  3685  read.  TimeStamp:  2015-05-31 01:35:44"
+"732" "3686  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:45"
+"733" "occurrence  3686  read.  TimeStamp:  2015-05-31 01:35:45"
+"734" "3687  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:45"
+"735" "occurrence  3687  read.  TimeStamp:  2015-05-31 01:35:45"
+"736" "3688  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:46"
+"737" "occurrence  3688  read.  TimeStamp:  2015-05-31 01:35:46"
+"738" "3689  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:46"
+"739" "occurrence  3689  read.  TimeStamp:  2015-05-31 01:35:46"
+"740" "3690  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:46"
+"741" "occurrence  3690  read.  TimeStamp:  2015-05-31 01:35:46"
+"742" "3691  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:47"
+"743" "occurrence  3691  read.  TimeStamp:  2015-05-31 01:35:47"
+"744" "3692  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:47"
+"745" "occurrence  3692  read.  TimeStamp:  2015-05-31 01:35:47"
+"746" "3693  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:48"
+"747" "occurrence  3693  read.  TimeStamp:  2015-05-31 01:35:48"
+"748" "3694  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:48"
+"749" "occurrence  3694  read.  TimeStamp:  2015-05-31 01:35:48"
+"750" "3695  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:48"
+"751" "occurrence  3695  read.  TimeStamp:  2015-05-31 01:35:48"
+"752" "3696  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:49"
+"753" "occurrence  3696  read.  TimeStamp:  2015-05-31 01:35:49"
+"754" "3697  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:49"
+"755" "occurrence  3697  read.  TimeStamp:  2015-05-31 01:35:49"
+"756" "3698  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:50"
+"757" "occurrence  3698  read.  TimeStamp:  2015-05-31 01:35:50"
+"758" "3699  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:50"
+"759" "occurrence  3699  read.  TimeStamp:  2015-05-31 01:35:50"
+"760" "3700  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:50"
+"761" "occurrence  3700  read.  TimeStamp:  2015-05-31 01:35:50"
+"762" "3701  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:51"
+"763" "occurrence  3701  read.  TimeStamp:  2015-05-31 01:35:51"
+"764" "3702  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:51"
+"765" "occurrence  3702  read.  TimeStamp:  2015-05-31 01:35:51"
+"766" "3703  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:52"
+"767" "occurrence  3703  read.  TimeStamp:  2015-05-31 01:35:52"
+"768" "3704  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:52"
+"769" "occurrence  3704  read.  TimeStamp:  2015-05-31 01:35:52"
+"770" "3705  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:52"
+"771" "occurrence  3705  read.  TimeStamp:  2015-05-31 01:35:52"
+"772" "3706  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:53"
+"773" "occurrence  3706  read.  TimeStamp:  2015-05-31 01:35:53"
+"774" "3707  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:53"
+"775" "occurrence  3707  read.  TimeStamp:  2015-05-31 01:35:53"
+"776" "3708  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:54"
+"777" "occurrence  3708  read.  TimeStamp:  2015-05-31 01:35:54"
+"778" "3709  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:54"
+"779" "occurrence  3709  read.  TimeStamp:  2015-05-31 01:35:54"
+"780" "3710  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:54"
+"781" "occurrence  3710  read.  TimeStamp:  2015-05-31 01:35:54"
+"782" "3711  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:55"
+"783" "occurrence  3711  read.  TimeStamp:  2015-05-31 01:35:55"
+"784" "3712  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:55"
+"785" "occurrence  3712  read.  TimeStamp:  2015-05-31 01:35:55"
+"786" "3713  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:56"
+"787" "occurrence  3713  read.  TimeStamp:  2015-05-31 01:35:56"
+"788" "3714  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:56"
+"789" "occurrence  3714  read.  TimeStamp:  2015-05-31 01:35:56"
+"790" "3715  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:57"
+"791" "occurrence  3715  read.  TimeStamp:  2015-05-31 01:35:57"
+"792" "3716  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:57"
+"793" "occurrence  3716  read.  TimeStamp:  2015-05-31 01:35:57"
+"794" "3717  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:57"
+"795" "occurrence  3717  read.  TimeStamp:  2015-05-31 01:35:57"
+"796" "3718  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:58"
+"797" "occurrence  3718  read.  TimeStamp:  2015-05-31 01:35:58"
+"798" "3719  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:58"
+"799" "occurrence  3719  read.  TimeStamp:  2015-05-31 01:35:58"
+"800" "3720  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:59"
+"801" "occurrence  3720  read.  TimeStamp:  2015-05-31 01:35:59"
+"802" "3721  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:35:59"
+"803" "occurrence  3721  read.  TimeStamp:  2015-05-31 01:35:59"
+"804" "3722  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:00"
+"805" "occurrence  3722  read.  TimeStamp:  2015-05-31 01:36:00"
+"806" "3723  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:00"
+"807" "occurrence  3723  read.  TimeStamp:  2015-05-31 01:36:00"
+"808" "3724  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:00"
+"809" "occurrence  3724  read.  TimeStamp:  2015-05-31 01:36:00"
+"810" "3725  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:01"
+"811" "occurrence  3725  read.  TimeStamp:  2015-05-31 01:36:01"
+"812" "3726  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:01"
+"813" "occurrence  3726  read.  TimeStamp:  2015-05-31 01:36:01"
+"814" "3727  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:01"
+"815" "occurrence  3727  read.  TimeStamp:  2015-05-31 01:36:01"
+"816" "3728  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:02"
+"817" "occurrence  3728  read.  TimeStamp:  2015-05-31 01:36:02"
+"818" "3729  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:02"
+"819" "occurrence  3729  read.  TimeStamp:  2015-05-31 01:36:02"
+"820" "3730  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:03"
+"821" "occurrence  3730  read.  TimeStamp:  2015-05-31 01:36:03"
+"822" "3731  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:03"
+"823" "occurrence  3731  read.  TimeStamp:  2015-05-31 01:36:03"
+"824" "3732  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:03"
+"825" "occurrence  3732  read.  TimeStamp:  2015-05-31 01:36:03"
+"826" "3733  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:04"
+"827" "occurrence  3733  read.  TimeStamp:  2015-05-31 01:36:04"
+"828" "3734  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:04"
+"829" "occurrence  3734  read.  TimeStamp:  2015-05-31 01:36:04"
+"830" "3735  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:05"
+"831" "occurrence  3735  read.  TimeStamp:  2015-05-31 01:36:05"
+"832" "3736  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:05"
+"833" "occurrence  3736  read.  TimeStamp:  2015-05-31 01:36:05"
+"834" "3737  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:05"
+"835" "occurrence  3737  read.  TimeStamp:  2015-05-31 01:36:05"
+"836" "3738  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:06"
+"837" "occurrence  3738  read.  TimeStamp:  2015-05-31 01:36:06"
+"838" "3739  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:06"
+"839" "occurrence  3739  read.  TimeStamp:  2015-05-31 01:36:06"
+"840" "3740  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:07"
+"841" "occurrence  3740  read.  TimeStamp:  2015-05-31 01:36:07"
+"842" "3741  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:07"
+"843" "occurrence  3741  read.  TimeStamp:  2015-05-31 01:36:07"
+"844" "3742  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:07"
+"845" "occurrence  3742  read.  TimeStamp:  2015-05-31 01:36:07"
+"846" "3743  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:08"
+"847" "occurrence  3743  read.  TimeStamp:  2015-05-31 01:36:08"
+"848" "3744  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:08"
+"849" "occurrence  3744  read.  TimeStamp:  2015-05-31 01:36:08"
+"850" "3745  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:09"
+"851" "occurrence  3745  read.  TimeStamp:  2015-05-31 01:36:09"
+"852" "3746  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:09"
+"853" "occurrence  3746  read.  TimeStamp:  2015-05-31 01:36:09"
+"854" "3747  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:09"
+"855" "occurrence  3747  read.  TimeStamp:  2015-05-31 01:36:09"
+"856" "3748  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:10"
+"857" "occurrence  3748  read.  TimeStamp:  2015-05-31 01:36:10"
+"858" "3749  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:10"
+"859" "occurrence  3749  read.  TimeStamp:  2015-05-31 01:36:10"
+"860" "3750  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:11"
+"861" "occurrence  3750  read.  TimeStamp:  2015-05-31 01:36:11"
+"862" "3751  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:11"
+"863" "occurrence  3751  read.  TimeStamp:  2015-05-31 01:36:11"
+"864" "3752  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:11"
+"865" "occurrence  3752  read.  TimeStamp:  2015-05-31 01:36:11"
+"866" "3753  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:12"
+"867" "occurrence  3753  read.  TimeStamp:  2015-05-31 01:36:12"
+"868" "3754  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:12"
+"869" "occurrence  3754  read.  TimeStamp:  2015-05-31 01:36:12"
+"870" "3755  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:12"
+"871" "occurrence  3755  read.  TimeStamp:  2015-05-31 01:36:12"
+"872" "3756  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:13"
+"873" "occurrence  3756  read.  TimeStamp:  2015-05-31 01:36:13"
+"874" "3757  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:14"
+"875" "occurrence  3757  read.  TimeStamp:  2015-05-31 01:36:14"
+"876" "3758  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:15"
+"877" "occurrence  3758  read.  TimeStamp:  2015-05-31 01:36:15"
+"878" "3759  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:15"
+"879" "occurrence  3759  read.  TimeStamp:  2015-05-31 01:36:15"
+"880" "3760  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:16"
+"881" "occurrence  3760  read.  TimeStamp:  2015-05-31 01:36:16"
+"882" "3761  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:16"
+"883" "occurrence  3761  read.  TimeStamp:  2015-05-31 01:36:16"
+"884" "3762  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:16"
+"885" "occurrence  3762  read.  TimeStamp:  2015-05-31 01:36:16"
+"886" "3763  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:17"
+"887" "occurrence  3763  read.  TimeStamp:  2015-05-31 01:36:17"
+"888" "3764  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:17"
+"889" "occurrence  3764  read.  TimeStamp:  2015-05-31 01:36:17"
+"890" "3765  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:18"
+"891" "occurrence  3765  read.  TimeStamp:  2015-05-31 01:36:18"
+"892" "3766  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:18"
+"893" "occurrence  3766  read.  TimeStamp:  2015-05-31 01:36:18"
+"894" "3767  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:18"
+"895" "occurrence  3767  read.  TimeStamp:  2015-05-31 01:36:18"
+"896" "3768  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:19"
+"897" "occurrence  3768  read.  TimeStamp:  2015-05-31 01:36:19"
+"898" "3769  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:19"
+"899" "occurrence  3769  read.  TimeStamp:  2015-05-31 01:36:19"
+"900" "3770  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:19"
+"901" "occurrence  3770  read.  TimeStamp:  2015-05-31 01:36:19"
+"902" "3771  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:20"
+"903" "occurrence  3771  read.  TimeStamp:  2015-05-31 01:36:20"
+"904" "3772  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:20"
+"905" "occurrence  3772  read.  TimeStamp:  2015-05-31 01:36:20"
+"906" "3773  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:21"
+"907" "occurrence  3773  read.  TimeStamp:  2015-05-31 01:36:21"
+"908" "3774  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:21"
+"909" "occurrence  3774  read.  TimeStamp:  2015-05-31 01:36:21"
+"910" "3775  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:21"
+"911" "occurrence  3775  read.  TimeStamp:  2015-05-31 01:36:21"
+"912" "3776  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:22"
+"913" "occurrence  3776  read.  TimeStamp:  2015-05-31 01:36:22"
+"914" "3777  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:22"
+"915" "occurrence  3777  read.  TimeStamp:  2015-05-31 01:36:22"
+"916" "3778  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:22"
+"917" "occurrence  3778  read.  TimeStamp:  2015-05-31 01:36:22"
+"918" "3779  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:23"
+"919" "occurrence  3779  read.  TimeStamp:  2015-05-31 01:36:23"
+"920" "3780  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:23"
+"921" "occurrence  3780  read.  TimeStamp:  2015-05-31 01:36:23"
+"922" "3781  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:24"
+"923" "occurrence  3781  read.  TimeStamp:  2015-05-31 01:36:24"
+"924" "3782  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:24"
+"925" "occurrence  3782  read.  TimeStamp:  2015-05-31 01:36:24"
+"926" "3783  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:24"
+"927" "occurrence  3783  read.  TimeStamp:  2015-05-31 01:36:24"
+"928" "3784  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:25"
+"929" "occurrence  3784  read.  TimeStamp:  2015-05-31 01:36:25"
+"930" "3785  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:25"
+"931" "occurrence  3785  read.  TimeStamp:  2015-05-31 01:36:25"
+"932" "3786  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:26"
+"933" "occurrence  3786  read.  TimeStamp:  2015-05-31 01:36:26"
+"934" "3787  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:26"
+"935" "occurrence  3787  read.  TimeStamp:  2015-05-31 01:36:26"
+"936" "3788  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:26"
+"937" "occurrence  3788  read.  TimeStamp:  2015-05-31 01:36:26"
+"938" "3789  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:27"
+"939" "occurrence  3789  read.  TimeStamp:  2015-05-31 01:36:27"
+"940" "3790  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:27"
+"941" "occurrence  3790  read.  TimeStamp:  2015-05-31 01:36:27"
+"942" "3791  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:27"
+"943" "occurrence  3791  read.  TimeStamp:  2015-05-31 01:36:27"
+"944" "3792  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:28"
+"945" "occurrence  3792  read.  TimeStamp:  2015-05-31 01:36:28"
+"946" "3793  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:28"
+"947" "occurrence  3793  read.  TimeStamp:  2015-05-31 01:36:28"
+"948" "3794  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:29"
+"949" "occurrence  3794  read.  TimeStamp:  2015-05-31 01:36:29"
+"950" "3795  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:29"
+"951" "occurrence  3795  read.  TimeStamp:  2015-05-31 01:36:29"
+"952" "3796  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:29"
+"953" "occurrence  3796  read.  TimeStamp:  2015-05-31 01:36:29"
+"954" "3797  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:30"
+"955" "occurrence  3797  read.  TimeStamp:  2015-05-31 01:36:30"
+"956" "3798  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:30"
+"957" "occurrence  3798  read.  TimeStamp:  2015-05-31 01:36:30"
+"958" "3799  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:31"
+"959" "occurrence  3799  read.  TimeStamp:  2015-05-31 01:36:31"
+"960" "3800  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:31"
+"961" "occurrence  3800  read.  TimeStamp:  2015-05-31 01:36:31"
+"962" "3801  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:31"
+"963" "occurrence  3801  read.  TimeStamp:  2015-05-31 01:36:31"
+"964" "3802  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:32"
+"965" "occurrence  3802  read.  TimeStamp:  2015-05-31 01:36:32"
+"966" "3803  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:32"
+"967" "occurrence  3803  read.  TimeStamp:  2015-05-31 01:36:32"
+"968" "3804  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:33"
+"969" "occurrence  3804  read.  TimeStamp:  2015-05-31 01:36:33"
+"970" "3805  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:33"
+"971" "occurrence  3805  read.  TimeStamp:  2015-05-31 01:36:33"
+"972" "3806  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:33"
+"973" "occurrence  3806  read.  TimeStamp:  2015-05-31 01:36:33"
+"974" "3807  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:34"
+"975" "occurrence  3807  read.  TimeStamp:  2015-05-31 01:36:34"
+"976" "3808  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:34"
+"977" "occurrence  3808  read.  TimeStamp:  2015-05-31 01:36:34"
+"978" "3809  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:35"
+"979" "occurrence  3809  read.  TimeStamp:  2015-05-31 01:36:35"
+"980" "3810  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:35"
+"981" "occurrence  3810  read.  TimeStamp:  2015-05-31 01:36:35"
+"982" "3811  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:35"
+"983" "occurrence  3811  read.  TimeStamp:  2015-05-31 01:36:35"
+"984" "3812  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:36"
+"985" "occurrence  3812  read.  TimeStamp:  2015-05-31 01:36:36"
+"986" "3813  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:36"
+"987" "occurrence  3813  read.  TimeStamp:  2015-05-31 01:36:36"
+"988" "3814  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:36"
+"989" "occurrence  3814  read.  TimeStamp:  2015-05-31 01:36:36"
+"990" "3815  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:37"
+"991" "occurrence  3815  read.  TimeStamp:  2015-05-31 01:36:37"
+"992" "3816  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:37"
+"993" "occurrence  3816  read.  TimeStamp:  2015-05-31 01:36:37"
+"994" "3817  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:38"
+"995" "occurrence  3817  read.  TimeStamp:  2015-05-31 01:36:38"
+"996" "3818  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:38"
+"997" "occurrence  3818  read.  TimeStamp:  2015-05-31 01:36:38"
+"998" "3819  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:38"
+"999" "occurrence  3819  read.  TimeStamp:  2015-05-31 01:36:38"
+"1000" "3820  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:39"
+"1001" "occurrence  3820  read.  TimeStamp:  2015-05-31 01:36:39"
+"1002" "3821  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:39"
+"1003" "occurrence  3821  read.  TimeStamp:  2015-05-31 01:36:39"
+"1004" "3822  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:40"
+"1005" "occurrence  3822  read.  TimeStamp:  2015-05-31 01:36:40"
+"1006" "3823  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:40"
+"1007" "occurrence  3823  read.  TimeStamp:  2015-05-31 01:36:40"
+"1008" "3824  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:40"
+"1009" "occurrence  3824  read.  TimeStamp:  2015-05-31 01:36:40"
+"1010" "3825  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:41"
+"1011" "occurrence  3825  read.  TimeStamp:  2015-05-31 01:36:41"
+"1012" "3826  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:41"
+"1013" "occurrence  3826  read.  TimeStamp:  2015-05-31 01:36:41"
+"1014" "3827  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:41"
+"1015" "occurrence  3827  read.  TimeStamp:  2015-05-31 01:36:41"
+"1016" "3828  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:42"
+"1017" "occurrence  3828  read.  TimeStamp:  2015-05-31 01:36:42"
+"1018" "3829  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:42"
+"1019" "occurrence  3829  read.  TimeStamp:  2015-05-31 01:36:42"
+"1020" "3830  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:43"
+"1021" "occurrence  3830  read.  TimeStamp:  2015-05-31 01:36:43"
+"1022" "3831  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:43"
+"1023" "occurrence  3831  read.  TimeStamp:  2015-05-31 01:36:43"
+"1024" "3832  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:43"
+"1025" "occurrence  3832  read.  TimeStamp:  2015-05-31 01:36:43"
+"1026" "3833  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:44"
+"1027" "occurrence  3833  read.  TimeStamp:  2015-05-31 01:36:44"
+"1028" "3834  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:44"
+"1029" "occurrence  3834  read.  TimeStamp:  2015-05-31 01:36:44"
+"1030" "3835  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:44"
+"1031" "occurrence  3835  read.  TimeStamp:  2015-05-31 01:36:44"
+"1032" "3836  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:45"
+"1033" "occurrence  3836  read.  TimeStamp:  2015-05-31 01:36:45"
+"1034" "3837  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:45"
+"1035" "occurrence  3837  read.  TimeStamp:  2015-05-31 01:36:45"
+"1036" "3838  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:46"
+"1037" "occurrence  3838  read.  TimeStamp:  2015-05-31 01:36:46"
+"1038" "3839  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:46"
+"1039" "occurrence  3839  read.  TimeStamp:  2015-05-31 01:36:46"
+"1040" "3840  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:46"
+"1041" "occurrence  3840  read.  TimeStamp:  2015-05-31 01:36:46"
+"1042" "3841  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:48"
+"1043" "occurrence  3841  read.  TimeStamp:  2015-05-31 01:36:48"
+"1044" "3842  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:48"
+"1045" "occurrence  3842  read.  TimeStamp:  2015-05-31 01:36:48"
+"1046" "3843  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:49"
+"1047" "occurrence  3843  read.  TimeStamp:  2015-05-31 01:36:49"
+"1048" "3844  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:49"
+"1049" "occurrence  3844  read.  TimeStamp:  2015-05-31 01:36:49"
+"1050" "3845  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:50"
+"1051" "occurrence  3845  read.  TimeStamp:  2015-05-31 01:36:50"
+"1052" "3846  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:50"
+"1053" "occurrence  3846  read.  TimeStamp:  2015-05-31 01:36:50"
+"1054" "3847  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:50"
+"1055" "occurrence  3847  read.  TimeStamp:  2015-05-31 01:36:50"
+"1056" "3848  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:51"
+"1057" "occurrence  3848  read.  TimeStamp:  2015-05-31 01:36:51"
+"1058" "3849  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:51"
+"1059" "occurrence  3849  read.  TimeStamp:  2015-05-31 01:36:51"
+"1060" "3850  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:52"
+"1061" "occurrence  3850  read.  TimeStamp:  2015-05-31 01:36:52"
+"1062" "3851  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:52"
+"1063" "occurrence  3851  read.  TimeStamp:  2015-05-31 01:36:52"
+"1064" "3852  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:52"
+"1065" "occurrence  3852  read.  TimeStamp:  2015-05-31 01:36:52"
+"1066" "3853  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:53"
+"1067" "occurrence  3853  read.  TimeStamp:  2015-05-31 01:36:53"
+"1068" "3854  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:53"
+"1069" "occurrence  3854  read.  TimeStamp:  2015-05-31 01:36:53"
+"1070" "3855  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:53"
+"1071" "occurrence  3855  read.  TimeStamp:  2015-05-31 01:36:53"
+"1072" "3856  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:54"
+"1073" "occurrence  3856  read.  TimeStamp:  2015-05-31 01:36:54"
+"1074" "3857  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:54"
+"1075" "occurrence  3857  read.  TimeStamp:  2015-05-31 01:36:54"
+"1076" "3858  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:55"
+"1077" "occurrence  3858  read.  TimeStamp:  2015-05-31 01:36:55"
+"1078" "3859  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:55"
+"1079" "occurrence  3859  read.  TimeStamp:  2015-05-31 01:36:55"
+"1080" "3860  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:55"
+"1081" "occurrence  3860  read.  TimeStamp:  2015-05-31 01:36:55"
+"1082" "3861  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:56"
+"1083" "occurrence  3861  read.  TimeStamp:  2015-05-31 01:36:56"
+"1084" "3862  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:56"
+"1085" "occurrence  3862  read.  TimeStamp:  2015-05-31 01:36:56"
+"1086" "3863  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:57"
+"1087" "occurrence  3863  read.  TimeStamp:  2015-05-31 01:36:57"
+"1088" "3864  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:57"
+"1089" "occurrence  3864  read.  TimeStamp:  2015-05-31 01:36:57"
+"1090" "3865  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:57"
+"1091" "occurrence  3865  read.  TimeStamp:  2015-05-31 01:36:57"
+"1092" "3866  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:58"
+"1093" "occurrence  3866  read.  TimeStamp:  2015-05-31 01:36:58"
+"1094" "3867  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:58"
+"1095" "occurrence  3867  read.  TimeStamp:  2015-05-31 01:36:58"
+"1096" "3868  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:59"
+"1097" "occurrence  3868  read.  TimeStamp:  2015-05-31 01:36:59"
+"1098" "3869  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:59"
+"1099" "occurrence  3869  read.  TimeStamp:  2015-05-31 01:36:59"
+"1100" "3870  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:36:59"
+"1101" "occurrence  3870  read.  TimeStamp:  2015-05-31 01:36:59"
+"1102" "3871  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:00"
+"1103" "occurrence  3871  read.  TimeStamp:  2015-05-31 01:37:00"
+"1104" "3872  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:00"
+"1105" "occurrence  3872  read.  TimeStamp:  2015-05-31 01:37:00"
+"1106" "3873  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:00"
+"1107" "occurrence  3873  read.  TimeStamp:  2015-05-31 01:37:00"
+"1108" "3874  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:01"
+"1109" "occurrence  3874  read.  TimeStamp:  2015-05-31 01:37:01"
+"1110" "3875  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:01"
+"1111" "occurrence  3875  read.  TimeStamp:  2015-05-31 01:37:01"
+"1112" "3876  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:02"
+"1113" "occurrence  3876  read.  TimeStamp:  2015-05-31 01:37:02"
+"1114" "3877  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:02"
+"1115" "occurrence  3877  read.  TimeStamp:  2015-05-31 01:37:02"
+"1116" "3878  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:02"
+"1117" "occurrence  3878  read.  TimeStamp:  2015-05-31 01:37:02"
+"1118" "3879  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:03"
+"1119" "occurrence  3879  read.  TimeStamp:  2015-05-31 01:37:03"
+"1120" "3880  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:03"
+"1121" "occurrence  3880  read.  TimeStamp:  2015-05-31 01:37:03"
+"1122" "3881  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:04"
+"1123" "occurrence  3881  read.  TimeStamp:  2015-05-31 01:37:04"
+"1124" "3882  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:04"
+"1125" "occurrence  3882  read.  TimeStamp:  2015-05-31 01:37:04"
+"1126" "3883  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:04"
+"1127" "occurrence  3883  read.  TimeStamp:  2015-05-31 01:37:04"
+"1128" "3884  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:05"
+"1129" "occurrence  3884  read.  TimeStamp:  2015-05-31 01:37:05"
+"1130" "3885  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:05"
+"1131" "occurrence  3885  read.  TimeStamp:  2015-05-31 01:37:05"
+"1132" "3886  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:06"
+"1133" "occurrence  3886  read.  TimeStamp:  2015-05-31 01:37:06"
+"1134" "3887  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:06"
+"1135" "occurrence  3887  read.  TimeStamp:  2015-05-31 01:37:06"
+"1136" "3888  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:06"
+"1137" "occurrence  3888  read.  TimeStamp:  2015-05-31 01:37:06"
+"1138" "3889  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:07"
+"1139" "occurrence  3889  read.  TimeStamp:  2015-05-31 01:37:07"
+"1140" "3890  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:07"
+"1141" "occurrence  3890  read.  TimeStamp:  2015-05-31 01:37:07"
+"1142" "3891  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:08"
+"1143" "occurrence  3891  read.  TimeStamp:  2015-05-31 01:37:08"
+"1144" "3892  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:08"
+"1145" "occurrence  3892  read.  TimeStamp:  2015-05-31 01:37:08"
+"1146" "3893  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:09"
+"1147" "occurrence  3893  read.  TimeStamp:  2015-05-31 01:37:09"
+"1148" "3894  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:09"
+"1149" "occurrence  3894  read.  TimeStamp:  2015-05-31 01:37:09"
+"1150" "3895  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:09"
+"1151" "occurrence  3895  read.  TimeStamp:  2015-05-31 01:37:09"
+"1152" "3896  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:10"
+"1153" "occurrence  3896  read.  TimeStamp:  2015-05-31 01:37:10"
+"1154" "3897  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:10"
+"1155" "occurrence  3897  read.  TimeStamp:  2015-05-31 01:37:10"
+"1156" "3898  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:11"
+"1157" "occurrence  3898  read.  TimeStamp:  2015-05-31 01:37:11"
+"1158" "3899  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:11"
+"1159" "occurrence  3899  read.  TimeStamp:  2015-05-31 01:37:11"
+"1160" "3900  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:11"
+"1161" "occurrence  3900  read.  TimeStamp:  2015-05-31 01:37:11"
+"1162" "3901  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:12"
+"1163" "occurrence  3901  read.  TimeStamp:  2015-05-31 01:37:12"
+"1164" "3902  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:12"
+"1165" "occurrence  3902  read.  TimeStamp:  2015-05-31 01:37:12"
+"1166" "3903  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:13"
+"1167" "occurrence  3903  read.  TimeStamp:  2015-05-31 01:37:13"
+"1168" "3904  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:13"
+"1169" "occurrence  3904  read.  TimeStamp:  2015-05-31 01:37:13"
+"1170" "3905  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:13"
+"1171" "occurrence  3905  read.  TimeStamp:  2015-05-31 01:37:13"
+"1172" "3906  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:14"
+"1173" "occurrence  3906  read.  TimeStamp:  2015-05-31 01:37:14"
+"1174" "3907  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:14"
+"1175" "occurrence  3907  read.  TimeStamp:  2015-05-31 01:37:14"
+"1176" "3908  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:15"
+"1177" "occurrence  3908  read.  TimeStamp:  2015-05-31 01:37:15"
+"1178" "3909  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:15"
+"1179" "occurrence  3909  read.  TimeStamp:  2015-05-31 01:37:15"
+"1180" "3910  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:15"
+"1181" "occurrence  3910  read.  TimeStamp:  2015-05-31 01:37:15"
+"1182" "3911  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:16"
+"1183" "occurrence  3911  read.  TimeStamp:  2015-05-31 01:37:16"
+"1184" "3912  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:16"
+"1185" "occurrence  3912  read.  TimeStamp:  2015-05-31 01:37:16"
+"1186" "3913  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:17"
+"1187" "occurrence  3913  read.  TimeStamp:  2015-05-31 01:37:17"
+"1188" "3914  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:17"
+"1189" "occurrence  3914  read.  TimeStamp:  2015-05-31 01:37:17"
+"1190" "3915  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:17"
+"1191" "occurrence  3915  read.  TimeStamp:  2015-05-31 01:37:17"
+"1192" "3916  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:18"
+"1193" "occurrence  3916  read.  TimeStamp:  2015-05-31 01:37:18"
+"1194" "3917  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:18"
+"1195" "occurrence  3917  read.  TimeStamp:  2015-05-31 01:37:18"
+"1196" "3918  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:18"
+"1197" "occurrence  3918  read.  TimeStamp:  2015-05-31 01:37:18"
+"1198" "3919  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:19"
+"1199" "occurrence  3919  read.  TimeStamp:  2015-05-31 01:37:19"
+"1200" "3920  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:19"
+"1201" "occurrence  3920  read.  TimeStamp:  2015-05-31 01:37:19"
+"1202" "3921  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:20"
+"1203" "occurrence  3921  read.  TimeStamp:  2015-05-31 01:37:20"
+"1204" "3922  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:20"
+"1205" "occurrence  3922  read.  TimeStamp:  2015-05-31 01:37:20"
+"1206" "3923  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:20"
+"1207" "occurrence  3923  read.  TimeStamp:  2015-05-31 01:37:20"
+"1208" "3924  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:21"
+"1209" "occurrence  3924  read.  TimeStamp:  2015-05-31 01:37:21"
+"1210" "3925  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:21"
+"1211" "occurrence  3925  read.  TimeStamp:  2015-05-31 01:37:21"
+"1212" "3926  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:22"
+"1213" "occurrence  3926  read.  TimeStamp:  2015-05-31 01:37:22"
+"1214" "3927  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:22"
+"1215" "occurrence  3927  read.  TimeStamp:  2015-05-31 01:37:22"
+"1216" "3928  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:22"
+"1217" "occurrence  3928  read.  TimeStamp:  2015-05-31 01:37:22"
+"1218" "3929  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:23"
+"1219" "occurrence  3929  read.  TimeStamp:  2015-05-31 01:37:23"
+"1220" "3930  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:23"
+"1221" "occurrence  3930  read.  TimeStamp:  2015-05-31 01:37:23"
+"1222" "3931  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:24"
+"1223" "occurrence  3931  read.  TimeStamp:  2015-05-31 01:37:24"
+"1224" "3932  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:24"
+"1225" "occurrence  3932  read.  TimeStamp:  2015-05-31 01:37:24"
+"1226" "3933  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:24"
+"1227" "occurrence  3933  read.  TimeStamp:  2015-05-31 01:37:24"
+"1228" "3934  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:25"
+"1229" "occurrence  3934  read.  TimeStamp:  2015-05-31 01:37:25"
+"1230" "3935  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:25"
+"1231" "occurrence  3935  read.  TimeStamp:  2015-05-31 01:37:25"
+"1232" "3936  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:26"
+"1233" "occurrence  3936  read.  TimeStamp:  2015-05-31 01:37:26"
+"1234" "3937  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:26"
+"1235" "occurrence  3937  read.  TimeStamp:  2015-05-31 01:37:26"
+"1236" "3938  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:26"
+"1237" "occurrence  3938  read.  TimeStamp:  2015-05-31 01:37:26"
+"1238" "3939  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:27"
+"1239" "occurrence  3939  read.  TimeStamp:  2015-05-31 01:37:27"
+"1240" "3940  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:27"
+"1241" "occurrence  3940  read.  TimeStamp:  2015-05-31 01:37:27"
+"1242" "3941  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:27"
+"1243" "occurrence  3941  read.  TimeStamp:  2015-05-31 01:37:27"
+"1244" "3942  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:28"
+"1245" "occurrence  3942  read.  TimeStamp:  2015-05-31 01:37:28"
+"1246" "3943  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:28"
+"1247" "occurrence  3943  read.  TimeStamp:  2015-05-31 01:37:28"
+"1248" "3944  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:29"
+"1249" "occurrence  3944  read.  TimeStamp:  2015-05-31 01:37:29"
+"1250" "3945  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:29"
+"1251" "occurrence  3945  read.  TimeStamp:  2015-05-31 01:37:29"
+"1252" "3946  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:29"
+"1253" "occurrence  3946  read.  TimeStamp:  2015-05-31 01:37:29"
+"1254" "3947  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:30"
+"1255" "occurrence  3947  read.  TimeStamp:  2015-05-31 01:37:30"
+"1256" "3948  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:30"
+"1257" "occurrence  3948  read.  TimeStamp:  2015-05-31 01:37:30"
+"1258" "3949  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:31"
+"1259" "occurrence  3949  read.  TimeStamp:  2015-05-31 01:37:31"
+"1260" "3950  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:31"
+"1261" "occurrence  3950  read.  TimeStamp:  2015-05-31 01:37:31"
+"1262" "3951  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:31"
+"1263" "occurrence  3951  read.  TimeStamp:  2015-05-31 01:37:31"
+"1264" "3952  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:32"
+"1265" "occurrence  3952  read.  TimeStamp:  2015-05-31 01:37:32"
+"1266" "3953  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:32"
+"1267" "occurrence  3953  read.  TimeStamp:  2015-05-31 01:37:32"
+"1268" "3954  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:33"
+"1269" "occurrence  3954  read.  TimeStamp:  2015-05-31 01:37:33"
+"1270" "3955  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:33"
+"1271" "occurrence  3955  read.  TimeStamp:  2015-05-31 01:37:33"
+"1272" "3956  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:33"
+"1273" "occurrence  3956  read.  TimeStamp:  2015-05-31 01:37:33"
+"1274" "3957  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:34"
+"1275" "occurrence  3957  read.  TimeStamp:  2015-05-31 01:37:34"
+"1276" "3958  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:34"
+"1277" "occurrence  3958  read.  TimeStamp:  2015-05-31 01:37:34"
+"1278" "3959  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:35"
+"1279" "occurrence  3959  read.  TimeStamp:  2015-05-31 01:37:35"
+"1280" "3960  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:35"
+"1281" "occurrence  3960  read.  TimeStamp:  2015-05-31 01:37:35"
+"1282" "3961  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:35"
+"1283" "occurrence  3961  read.  TimeStamp:  2015-05-31 01:37:35"
+"1284" "3962  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:36"
+"1285" "occurrence  3962  read.  TimeStamp:  2015-05-31 01:37:36"
+"1286" "3963  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:36"
+"1287" "occurrence  3963  read.  TimeStamp:  2015-05-31 01:37:36"
+"1288" "3964  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:37"
+"1289" "occurrence  3964  read.  TimeStamp:  2015-05-31 01:37:37"
+"1290" "3965  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:37"
+"1291" "occurrence  3965  read.  TimeStamp:  2015-05-31 01:37:37"
+"1292" "3966  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:37"
+"1293" "occurrence  3966  read.  TimeStamp:  2015-05-31 01:37:37"
+"1294" "3967  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:38"
+"1295" "occurrence  3967  read.  TimeStamp:  2015-05-31 01:37:38"
+"1296" "3968  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:38"
+"1297" "occurrence  3968  read.  TimeStamp:  2015-05-31 01:37:38"
+"1298" "3969  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:39"
+"1299" "occurrence  3969  read.  TimeStamp:  2015-05-31 01:37:39"
+"1300" "3970  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:39"
+"1301" "occurrence  3970  read.  TimeStamp:  2015-05-31 01:37:39"
+"1302" "3971  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:39"
+"1303" "occurrence  3971  read.  TimeStamp:  2015-05-31 01:37:39"
+"1304" "3972  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:40"
+"1305" "occurrence  3972  read.  TimeStamp:  2015-05-31 01:37:40"
+"1306" "3973  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:40"
+"1307" "occurrence  3973  read.  TimeStamp:  2015-05-31 01:37:40"
+"1308" "3974  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:41"
+"1309" "occurrence  3974  read.  TimeStamp:  2015-05-31 01:37:41"
+"1310" "3975  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:41"
+"1311" "occurrence  3975  read.  TimeStamp:  2015-05-31 01:37:41"
+"1312" "3976  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:41"
+"1313" "occurrence  3976  read.  TimeStamp:  2015-05-31 01:37:41"
+"1314" "3977  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:42"
+"1315" "occurrence  3977  read.  TimeStamp:  2015-05-31 01:37:42"
+"1316" "3978  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:42"
+"1317" "occurrence  3978  read.  TimeStamp:  2015-05-31 01:37:42"
+"1318" "3979  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:43"
+"1319" "occurrence  3979  read.  TimeStamp:  2015-05-31 01:37:43"
+"1320" "3980  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:43"
+"1321" "occurrence  3980  read.  TimeStamp:  2015-05-31 01:37:43"
+"1322" "3981  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:43"
+"1323" "occurrence  3981  read.  TimeStamp:  2015-05-31 01:37:43"
+"1324" "3982  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:44"
+"1325" "occurrence  3982  read.  TimeStamp:  2015-05-31 01:37:44"
+"1326" "3983  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:44"
+"1327" "occurrence  3983  read.  TimeStamp:  2015-05-31 01:37:44"
+"1328" "3984  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:45"
+"1329" "occurrence  3984  read.  TimeStamp:  2015-05-31 01:37:45"
+"1330" "3985  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:45"
+"1331" "occurrence  3985  read.  TimeStamp:  2015-05-31 01:37:45"
+"1332" "3986  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:45"
+"1333" "occurrence  3986  read.  TimeStamp:  2015-05-31 01:37:45"
+"1334" "3987  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:46"
+"1335" "occurrence  3987  read.  TimeStamp:  2015-05-31 01:37:46"
+"1336" "3988  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:46"
+"1337" "occurrence  3988  read.  TimeStamp:  2015-05-31 01:37:46"
+"1338" "3989  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:47"
+"1339" "occurrence  3989  read.  TimeStamp:  2015-05-31 01:37:47"
+"1340" "3990  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:47"
+"1341" "occurrence  3990  read.  TimeStamp:  2015-05-31 01:37:47"
+"1342" "3991  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:47"
+"1343" "occurrence  3991  read.  TimeStamp:  2015-05-31 01:37:47"
+"1344" "3992  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:48"
+"1345" "occurrence  3992  read.  TimeStamp:  2015-05-31 01:37:48"
+"1346" "3993  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:48"
+"1347" "occurrence  3993  read.  TimeStamp:  2015-05-31 01:37:48"
+"1348" "3994  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:49"
+"1349" "occurrence  3994  read.  TimeStamp:  2015-05-31 01:37:49"
+"1350" "3995  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:49"
+"1351" "occurrence  3995  read.  TimeStamp:  2015-05-31 01:37:49"
+"1352" "3996  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:49"
+"1353" "occurrence  3996  read.  TimeStamp:  2015-05-31 01:37:49"
+"1354" "3997  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:50"
+"1355" "occurrence  3997  read.  TimeStamp:  2015-05-31 01:37:50"
+"1356" "3998  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:50"
+"1357" "occurrence  3998  read.  TimeStamp:  2015-05-31 01:37:50"
+"1358" "3999  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:51"
+"1359" "occurrence  3999  read.  TimeStamp:  2015-05-31 01:37:51"
+"1360" "4000  [UNHANDLED_ERROR]  UNHANDLED_ERROR: Error in data.frame(n_occurrence, latitude, longitude, city, occurrence_type, : arguments imply differing number of rows: 0, 1
+  TimeStamp:  2015-05-31 01:37:51"
+"1361" "occurrence  4000  read.  TimeStamp:  2015-05-31 01:37:51"

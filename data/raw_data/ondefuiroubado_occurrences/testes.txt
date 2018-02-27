@@ -1,0 +1,64 @@
+Teste 1 : 
+
+ - Atributos utilizados : 
+ 
+	occurrence_type
+	date
+	time
+	nearby_location
+
+ - Inputs utilizados : 
+ 
+	Minimum support: 0.1
+	Minimum metric <confidence>: 0.5
+
+ - Regras legais :
+
+	3. occurrence_type=Roubo  time=night 24011 ==> date=business_day 18302    conf:(0.76)
+	4. nearby_location=Banco 14786 ==> date=business_day 11233    conf:(0.76)
+	6. nearby_location=Restaurante 16198 ==> date=business_day 12127    conf:(0.75)
+	9. occurrence_type=Roubo  nearby_location=Escola 12727 ==> date=business_day 9464    conf:(0.74)
+
+Teste 2 :
+
+ - Atributos utilizados :
+	 
+	occurrence_type
+	date
+	time
+	nearby_location
+	carteira
+	celular
+	
+ - Inputs utilizados :
+ 
+	Minimum support: 0.1
+	Minimum metric <confidence>: 0.5
+	
+ - Regras legais : 
+
+ 	1. occurrence_type=Roubo  carteira=TRUE date=business_day 19817 ==> celular=TRUE 16631    conf:(0.84)
+ 	2. carteira=TRUE time=night 19853 ==> celular=TRUE 16285    conf:(0.82)
+ 	4. occurrence_type=Roubo  carteira=TRUE 26717 ==> celular=TRUE 21752    conf:(0.81)
+ 	11. occurrence_type=Roubo  date=business_day time=night 18302 ==> celular=TRUE 14212    conf:(0.78)
+ 	43. nearby_location=Escola 22139 ==> celular=TRUE 15253    conf:(0.69)
+
+Teste 3 :
+
+ - Atributos utilizados :
+	 
+	occurrence_type
+	date
+	time
+	nearby_location
+	carteira
+	celular
+	
+ - Inputs utilizados :
+ 
+	Minimum support: 0.3
+	Minimum metric <confidence>: 0.5
+	
+ - Regras legais : 
+ 
+ 	4. carteira=TRUE 38466 ==> celular=TRUE 29865    conf:(0.78)

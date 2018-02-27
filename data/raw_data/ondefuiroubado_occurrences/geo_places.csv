@@ -1,0 +1,281 @@
+latitude,longitude,place,name,type
+-22.9299561,-43.0881088,Niteroi,Rampa Norte,Ponto Turistico
+-22.9300719,-43.0877019,Niteroi,Rampa Sul,Ponto Turistico
+-22.8999684,-43.1143159,Niteroi,Hotel Fagundes Varela,Ponto Turistico
+-22.9385766,-43.1310176,Niteroi,Fortaleza de Santa Cruz da Barra,Restaurante
+-22.9115785,-43.1087792,Niteroi,La Mole,Restaurante
+-22.9408596,-43.0559479,Niteroi,NULL,Super Mercado
+-22.9279108,-43.095672,Niteroi,Hum Grill,Restaurante
+-22.9028026,-43.1108805,Niteroi,Pizzaria de Icaraí,Restaurante
+-22.9042618,-43.1097962,Niteroi,Itaú,Banco
+-22.9027656,-43.1132585,Niteroi,Nando,Super Mercado
+-22.9026799,-43.1112824,Niteroi,NULL,Bar
+-22.9027893,-43.1114061,Niteroi,NULL,Restaurante
+-22.9028369,-43.1114775,Niteroi,Spoleto,Restaurante
+-22.9038288,-43.1116546,Niteroi,Financiadora,Banco
+-22.9025348,-43.1114513,Niteroi,Santander,Banco
+-22.9024468,-43.1115608,Niteroi,Tim,Loja de Eletronicos
+-22.8934988,-43.1240548,Niteroi,NULL,Quiosque
+-22.8942508,-43.1190843,Niteroi,Banco do Brasil,Banco
+-22.8942886,-43.1199243,Niteroi,Sabor de Niterói,Restaurante
+-22.8942832,-43.119996,Niteroi,Estácio de Sá,Universidade
+-22.8941618,-43.1216149,Niteroi,Hortelã,Restaurante
+-22.8941751,-43.1214464,Niteroi,Ponto Frio,Loja de Eletronicos
+-22.8941419,-43.1218678,Niteroi,Antoniu's,Restaurante
+-22.8941352,-43.1219521,Niteroi,Insinuante,Loja de Eletronicos
+-22.8941552,-43.1216992,Niteroi,Estácio,Universidade
+-22.8941153,-43.122205,Niteroi,BV Financeira,Banco
+-22.894122,-43.1221207,Niteroi,Monteiro,Restaurante
+-22.894065,-43.1228271,Niteroi,Italiana,Restaurante
+-22.8940581,-43.1229008,Niteroi,Itaú,Banco
+-22.8940512,-43.1229745,Niteroi,Cédula Empréstimos,Banco
+-22.8940374,-43.1231219,Niteroi,Bem Vindo,Banco
+-22.8940167,-43.123343,Niteroi,Roma Tel,Loja de Eletronicos
+-22.8940029,-43.1234904,Niteroi,Oi,Loja de Eletronicos
+-22.9004436,-43.1047924,Niteroi,desordem,Bar
+-22.9010056,-43.1046848,Niteroi,Ativa Restaurante,Restaurante
+-22.9003823,-43.1046177,Niteroi,Rei do Som,Loja de Eletronicos
+-22.9016371,-43.1026719,Niteroi,Centrocardio,Clinica
+-22.9008332,-43.1095051,Niteroi,CCAA,Escola
+-22.9007199,-43.1096281,Niteroi,Ibeu,Escola
+-22.8997943,-43.1101172,Niteroi,Instituto Brasil América,Escola
+-22.8996289,-43.1102873,Niteroi,Sistema Elite de Ensino,Escola
+-22.9058605,-43.1131399,Niteroi,Broadway,Bar
+-22.9057619,-43.1130239,Niteroi,Friends,Bar
+-22.942316,-43.05679,Niteroi,Escola Municipal Francisco Portugal Neves,Escola
+-22.8939242,-43.1240547,Niteroi,Neltur - Tourist Information,Ponto Turistico
+-22.8988263,-43.1304381,Niteroi,Caverna do Bin Laden,Bar
+-22.8966313,-43.1256698,Niteroi,Teatro MPB-4,Teatro
+-22.8966197,-43.1264197,Niteroi,Só Pensa no Quilo,Restaurante
+-22.9047539,-43.1299219,Niteroi,Netu's,Bar
+-22.8768255,-43.0268118,Niteroi,Real,Super Mercado
+-22.8873551,-43.0335602,Niteroi,Pérola,Super Mercado
+-22.8876392,-43.0335924,Niteroi,Glamout,Restaurante
+-22.8776262,-43.0267689,Niteroi,Posto Petrobras,Posto de Gasolina
+-22.8877677,-43.0330667,Niteroi,Posto Ipiranga Glamout,Posto de Gasolina
+-22.9064524,-43.0568418,Niteroi,Posto Esso,Posto de Gasolina
+-22.9085518,-43.1080416,Niteroi,NULL,Ponto Turistico
+-22.9059899,-43.1074962,Niteroi,Tevere,Super Mercado
+-22.8983112,-43.1289613,Niteroi,NULL,Quiosque
+-22.8974687,-43.1255574,Niteroi,Busto do Professor Mazzini Bueno,Ponto Turistico
+-22.8966114,-43.1259892,Niteroi,NULL,Bar
+-22.911944,-43.108205,Niteroi,Tower Hotel Icarai,Ponto Turistico
+-22.8900654,-43.1226119,Niteroi,Banco Itaú,Banco
+-22.9293831,-43.1119153,Niteroi,NULL,Ponto Turistico
+-22.9310158,-43.1133393,Niteroi,NULL,Ponto Turistico
+-22.9325946,-43.1145057,Niteroi,Colégio Estadual Fernando Magalhães,Escola
+-22.9239171,-43.1217993,Niteroi,Pedra do Morcego,Ponto Turistico
+-22.9361544,-43.1081903,Niteroi,NULL,Ponto Turistico
+-22.9071625,-43.1311766,Niteroi,NULL,Ponto Turistico
+-22.8993948,-43.1310331,Niteroi,Cantareira,Ponto Turistico
+-22.939954,-43.0453518,Niteroi,Motel Status,Ponto Turistico
+-22.8874481,-43.0964681,Niteroi,Bar do Pinto,Bar
+-22.881306,-43.0953332,Niteroi,Gerezim,Super Mercado
+-22.8892727,-43.0954942,Niteroi,NULL,Bar
+-22.8893221,-43.0960252,Niteroi,NULL,Posto de Gasolina
+-22.9137354,-43.11007,Niteroi,NULL,Ponto Turistico
+-22.9015278,-43.0961681,Niteroi,NULL,Ponto Turistico
+-22.8854118,-43.1250006,Niteroi,NULL,Restaurante
+-22.8854513,-43.1251079,Niteroi,Restaurantes Mercado de São Pedro,Restaurante
+-22.90953,-43.1314788,Niteroi,Mirante do pulo,Ponto Turistico
+-22.8754212,-43.0315437,Niteroi,NULL,Bar
+-22.9011768,-43.1130455,Niteroi,NULL,Posto de Gasolina
+-22.9316116,-43.0670499,Niteroi,NULL,Posto de Gasolina
+-22.9367693,-43.0617981,Niteroi,Policlinica,Hospital
+-22.9427279,-43.0289352,Niteroi,Frangão na Brasa,Restaurante
+-22.9430355,-43.0293789,Niteroi,Di Lidia,Restaurante
+-22.9428487,-43.0296737,Niteroi,Supermarket,Super Mercado
+-22.9427555,-43.0295903,Niteroi,NULL,Posto de Gasolina
+-22.9459446,-43.0576722,Niteroi,Esquina do Jorge,Bar
+-22.9416499,-43.0541207,Niteroi,Freeport,Super Mercado
+-22.9419581,-43.0377899,Niteroi,Pensi,Escola
+-22.9435275,-43.0365799,Niteroi,Buzin,Restaurante
+-22.944435,-43.0359564,Niteroi,Cervejaria Noi,Bar
+-22.9460898,-43.0320588,Niteroi,Bradesco,Banco
+-22.9437716,-43.0304647,Niteroi,Real,Super Mercado
+-22.9061369,-43.0644976,Niteroi,SuperGasBras,Posto de Gasolina
+-22.9137151,-43.0846086,Niteroi,Ipiranga,Posto de Gasolina
+-22.9143164,-43.0956091,Niteroi,Hospital de Olhos Santa Beatriz,Hospital
+-22.896921,-43.1246896,Niteroi,Outback,Restaurante
+-22.8795987,-43.056826,Niteroi,Shalom,Ponto Turistico
+-22.8820915,-43.0820476,Niteroi,Colégio da Polícia Militar,Escola
+-22.8810602,-43.0872361,Niteroi,Supermarket,Super Mercado
+-22.9375896,-43.0617784,Niteroi,Shell,Posto de Gasolina
+-22.9353865,-43.0619568,Niteroi,NULL,Escola
+-22.9433131,-43.0582907,Niteroi,Itau,Banco
+-22.9439997,-43.0584839,Niteroi,NULL,Banco
+-22.9288226,-43.0643735,Niteroi,Unamed,Posto de Gasolina
+-22.9412792,-43.0579244,Niteroi,Bradesco,Banco
+-22.9364581,-43.0621558,Niteroi,NULL,Restaurante
+-22.9392172,-43.0617159,Niteroi,Salesiano,Escola
+-22.9368069,-43.0627046,Niteroi,Banco do Brasil,Banco
+-22.935928,-43.0638258,Niteroi,NULL,Escola
+-22.9357916,-43.0236817,Niteroi,Ipiranga,Posto de Gasolina
+-22.9341964,-43.0219581,Niteroi,NULL,Restaurante
+-22.9310385,-43.0175163,Niteroi,NULL,Posto de Gasolina
+-22.9299674,-43.015914,Niteroi,NULL,Posto de Gasolina
+-22.927958,-43.0124572,Niteroi,NULL,Posto de Gasolina
+-22.9245559,-43.0076624,Niteroi,Posto Petrobras,Posto de Gasolina
+-22.9107114,-43.0468261,Niteroi,NULL,Restaurante
+-22.912342,-43.0481699,Niteroi,NULL,Super Mercado
+-22.9002183,-43.1120618,Niteroi,Botequim À Mineira Orquídea,Restaurante
+-22.9034147,-43.1102477,Niteroi,Itaú Personnalité,Banco
+-22.8933285,-43.1233814,Niteroi,Itaú,Banco
+-22.8933401,-43.1228174,Niteroi,Itaú,Banco
+-22.8933413,-43.122553,Niteroi,Santander,Banco
+-22.8933288,-43.1219666,Niteroi,Itaú,Banco
+-22.8933246,-43.1214872,Niteroi,Bradesco,Banco
+-22.8933763,-43.120559,Niteroi,Caixa,Banco
+-22.8934233,-43.1198759,Niteroi,Itaú,Banco
+-22.8934222,-43.1194611,Niteroi,Banco do Brasil,Banco
+-22.8934403,-43.1191294,Niteroi,Santander,Banco
+-22.8934297,-43.118704,Niteroi,Safra,Banco
+-22.8937843,-43.1188753,Niteroi,Sabor da Hora,Restaurante
+-22.8937721,-43.1194357,Niteroi,Lucra Empréstimos,Banco
+-22.893812,-43.1197734,Niteroi,Requinte Grill,Restaurante
+-22.8937289,-43.1202789,Niteroi,BMG,Banco
+-22.8937239,-43.120411,Niteroi,Crefisa,Banco
+-22.8937106,-43.1216586,Niteroi,Itaú Personnalité,Banco
+-22.893703,-43.1218666,Niteroi,Santander,Banco
+-22.9269797,-43.1192719,Niteroi,NULL,Restaurante
+-22.9282034,-43.1177893,Niteroi,NULL,Ponto Turistico
+-22.9283483,-43.123088,Niteroi,NULL,Ponto Turistico
+-22.9288231,-43.1231291,Niteroi,NULL,Ponto Turistico
+-22.9297878,-43.1221088,Niteroi,NULL,Restaurante
+-22.8877834,-43.1225656,Niteroi,Trianon,Ponto Turistico
+-22.8882484,-43.1229686,Niteroi,Ponte Nova,Ponto Turistico
+-22.8985741,-43.0882587,Niteroi,Escola Anália Franco,Escola
+-22.9349774,-43.0690125,Niteroi,Colégio de Aplicação Dom Hélder Câmara,Escola
+-22.9291149,-43.0638979,Niteroi,Unidade Municipal de Emergência Doutor Mário Monteiro,Hospital
+-22.8967469,-43.1197866,Niteroi,Bar do Miguel,Bar
+-22.9323236,-43.1164429,Niteroi,Escola Municipal Lucia Maria Silveira da Rocha,Escola
+-22.9317776,-43.1159145,Niteroi,Bar do Edu,Bar
+-22.9146828,-43.0710337,Niteroi,NULL,Restaurante
+-22.8790067,-43.0918298,Niteroi,Escola Municipal Jacinta Medela,Escola
+-22.8784427,-43.0920973,Niteroi,Programa Médico de Família - Módulo Wilma Spin,Hospital
+-22.8781556,-43.0921801,Niteroi,Escola Municipal Dom José Pereira Alves,Escola
+-22.9116938,-43.0998305,Niteroi,Médico de Família - Unidade Frank País,Hospital
+-22.9149079,-43.094066,Niteroi,Colégio Estadual Cizínio Soares Pinto,Escola
+-22.9166027,-43.0943074,Niteroi,Mocellin Churrascaria,Restaurante
+-22.9174476,-43.0941572,Niteroi,Devassa,Bar
+-22.9180603,-43.094007,Niteroi,BemDito,Restaurante
+-22.9183024,-43.0939802,Niteroi,Queen Pizza,Restaurante
+-22.9193449,-43.0937763,Niteroi,Horácio Bar e Pizzaria,Restaurante
+-22.9199823,-43.0932882,Niteroi,Bar Formiguinha,Bar
+-22.9210792,-43.0928429,Niteroi,Colégio Nossa Senhora da Assunção,Escola
+-22.8951598,-43.116738,Niteroi,Escola de Enfermagem Aurora de Afonso Costa (UFF),Universidade
+-22.8740075,-43.0944073,Niteroi,Escola Municipal Adelino Magalhães,Escola
+-22.8833012,-43.0726029,Niteroi,Escola Municipal Alberto Brandão,Escola
+-22.8954392,-43.1170174,Niteroi,Escola Municipal Alberto Francisco Torres,Escola
+-22.8644461,-43.0996755,Niteroi,Escola Municipal Altivo César,Escola
+-22.8768717,-43.0479533,Niteroi,Colégio Estadual David Capistrano,Escola
+-22.8752308,-43.0488706,Niteroi,Unidade Municipal de Educação Infantil Casa da Criança de Santa Bárbara,Escola
+-22.8755867,-43.0486668,Niteroi,Escola Municipal Antônio Coutinho,Escola
+-22.8982481,-42.9949862,Niteroi,Escola Municipal Bolívia de Lima Gaétho,Escola
+-22.8825053,-43.1019097,Niteroi,Escola Municipal Djalma Coutinho de Oliveira,Escola
+-22.8825102,-43.1020223,Niteroi,Unidade Municipal de Educação Infantil Maria José B. Mansur,Escola
+-22.8719484,-43.0770319,Niteroi,Escola Municipal Djalma Coutinho,Escola
+-22.9031233,-43.0471571,Niteroi,Escola Municipal Diógenes R. de Mendonça,Escola
+-22.8809626,-43.0742992,Niteroi,Escola Municipal Ernani Moreira Franco,Escola
+-22.9289763,-43.0453178,Niteroi,Escola Municipal Eulália da S. Bragança,Escola
+-22.9073782,-43.060257,Niteroi,Escola Municipal Felisberto de Carvalho,Escola
+-22.9301793,-43.0289139,Niteroi,Escola Municipal Francisco Portugal Neves,Escola
+-22.9170598,-43.0851123,Niteroi,NULL,Posto de Gasolina
+-22.9172228,-43.0852598,Niteroi,Escola Municipal Helena Antipoff,Escola
+-22.8821256,-43.0266264,Niteroi,Escola Municipal Honorina de Carvalho,Escola
+-22.8819081,-43.0268946,Niteroi,Escola Municipal Sítio do Ipê,Escola
+-22.9063004,-43.0815469,Niteroi,Escola Municipal Horácio Pacheco,Escola
+-22.8665106,-43.0895398,Niteroi,Escola Municipal Infante Dom Henrique,Escola
+-22.8995527,-43.0628843,Niteroi,Escola Municipal Levi Carneiro,Escola
+-22.9007861,-43.1005968,Niteroi,Unidade Municipal de Educação Infantil Senador Vasconcelos Torres,Escola
+-22.9215881,-43.0898806,Niteroi,Escola Municipal Maria Ângela Moreira Pinto,Escola
+-22.8840103,-43.0942451,Niteroi,Escola Municipal Maria de Lourdes Barbosa Santos,Escola
+-22.8646616,-43.1001219,Niteroi,Unidade Municipal de Educação Infantil Rosalina de Araújo,Escola
+-22.8730409,-43.1146994,Niteroi,Colégio Estadual Zuleika Rapôso Valladares,Escola
+-22.8729767,-43.1157133,Niteroi,Escola Municipal Maestro Heitor Villa Lobos,Escola
+-22.8778957,-43.0776158,Niteroi,Unidade Municipal de Educação Infantil Renata Magaldi,Escola
+-22.864589,-43.0985739,Niteroi,Escola Municipal Mestra Fininha,Escola
+-22.8648534,-43.0989602,Niteroi,Escola Municipal André Trouche,Escola
+-22.8708844,-43.0825828,Niteroi,Escola Municipal Noronha Santos,Escola
+-22.8797403,-43.1237793,Niteroi,Escola Municipal Nossa Senhora da Penha,Escola
+-22.8781803,-43.0972657,Niteroi,Unidade Municipal de Educação Infantil Professora Marilza da Conceição Rocha Medina,Escola
+-22.9036612,-43.0909982,Niteroi,Escola Municipal Padre Leonel Franca,Escola
+-22.9003065,-43.1287391,Niteroi,Unidade Municipal de Educação Infantil Profª Denise Mendes Cardia,Escola
+-22.8829261,-43.0825537,Niteroi,Escola Municipal Paulo Freire,Escola
+-22.8921137,-43.1208492,Niteroi,Escola Municipal Professor Oswaldo Salles Lima,Escola
+-22.9364652,-43.0218054,Niteroi,Unidade Municipal de Educação Infantil Profª Áurea Trindade Pimentel de Menezes,Escola
+-22.9111291,-43.1028817,Niteroi,Escola Municipal Professora Elvira Lúcia E. de Vasconcelos,Escola
+-22.8755987,-43.0538998,Niteroi,Escola Municipal Rachide da Glória Salim Saker,Escola
+-22.8954541,-43.1093459,Niteroi,Escola Municipal Santos Dumont,Escola
+-22.894454,-43.0812256,Niteroi,Escola Municipal Sebastiana Gonçalves Pinho,Escola
+-22.8869292,-43.1075003,Niteroi,Unidade Municipal de Educação Infantil Profº Nilo Neves,Escola
+-22.8647752,-43.080321,Niteroi,Escola Municipal Tiradentes,Escola
+-22.8730309,-43.1165156,Niteroi,Unidade Municipal de Educação Infantil Profº Írio Molinari,Escola
+-22.8820513,-43.1229512,Niteroi,Unidade Municipal de Educação Infantil Portugal Pequeno,Escola
+-22.8666182,-43.0896535,Niteroi,Unidade Municipal de Educação Infantil Neuza Brizola,Escola
+-22.9361068,-43.0220879,Niteroi,Unidade Municipal de Educação Infantil Odete Rosa da Mota,Escola
+-22.9316685,-43.0965188,Niteroi,Unidade Municipal de Educação Infantil Maria Luiza Sampaio,Escola
+-22.9077117,-43.0751607,Niteroi,Unidade Municipal de Educação Infantil Margareth Flores,Escola
+-22.8914371,-43.0675856,Niteroi,Unidade Municipal de Educação Infantil Luiz Eduardo Travassos,Escola
+-22.9231848,-43.0312037,Niteroi,Unidade Municipal de Educação Infantil Lizete Maciel,Escola
+-22.9046329,-43.0612118,Niteroi,Unidade Municipal de Educação Infantil Lisaura Machado Ruas,Escola
+-22.8649015,-43.0949818,Niteroi,Unidade Municipal de Educação Infantil Iguatemi Coquinot,Escola
+-22.8969024,-43.1025738,Niteroi,Unidade Municipal de Educação Infantil Hilka de Araujo Peçanha,Escola
+-22.8771175,-43.0478813,Niteroi,Unidade Municipal de Educação Infantil Hermógenes Reis,Escola
+-22.8929291,-43.1159575,Niteroi,Unidade Municipal de Educação Infantil Alberto de Oliveira,Escola
+-22.8999437,-43.1206538,Niteroi,Unidade Municipal de Educação Infantil Antonio Vieira da Rocha,Escola
+-22.907468,-43.0601707,Niteroi,Unidade Municipal de Educação Infantil Gabriela Mistral,Escola
+-22.9005603,-43.0527501,Niteroi,Unidade Municipal de Educação Infantil Elenir Ramos Meirelles,Escola
+-22.9050438,-43.0905445,Niteroi,Unidade Municipal de Educação Infantil G. M. Bezerra de Menezes,Escola
+-22.8804672,-43.1085072,Niteroi,Unidade Municipal de Educação Infantil Julieta Botelho,Escola
+-22.9321151,-43.0720494,Niteroi,Restaurante Seu Antônio,Restaurante
+-22.9426186,-43.0561568,Niteroi,Colégio La Place,Escola
+-22.9448012,-43.0339761,Niteroi,Ipiranga,Posto de Gasolina
+-22.9445701,-43.034496,Niteroi,Itaú,Banco
+-22.944496,-43.034606,Niteroi,Caixa Econômica Federal,Banco
+-22.9447183,-43.03507,Niteroi,Maravista,Super Mercado
+-22.9383619,-43.0134183,Niteroi,Delícia Quentinha,Restaurante
+-22.88852,-43.123087,Niteroi,Caneco Gelado do Mário,Bar
+-22.8982284,-43.1017362,Niteroi,NULL,Escola
+-22.8987296,-43.1051641,Niteroi,Shell,Posto de Gasolina
+-22.911476,-43.1091034,Niteroi,Tenore,Restaurante
+-22.8865343,-43.114845,Niteroi,NULL,Posto de Gasolina
+-22.8967591,-43.1124277,Niteroi,Hortifruti,Super Mercado
+-22.927217,-43.119036,Niteroi,Bicho Papão,Restaurante
+-22.9024956,-43.1150498,Niteroi,NULL,Banco
+-22.9030811,-43.1156935,Niteroi,Gruta de Capri,Restaurante
+-22.9071013,-43.0606373,Niteroi,HSBC,Banco
+-22.8815615,-43.0834615,Niteroi,Banco do Brasil,Banco
+-22.8807831,-43.0960699,Niteroi,Princesa,Super Mercado
+-22.8812013,-43.0834354,Niteroi,Santander,Banco
+-22.8621018,-43.008743,Niteroi,NULL,Posto de Gasolina
+-22.8637284,-43.0079935,Niteroi,NULL,Posto de Gasolina
+-22.8762723,-43.05453,Niteroi,NULL,Posto de Gasolina
+-22.8809118,-43.103337,Niteroi,NULL,Posto de Gasolina
+-22.8810402,-43.0894335,Niteroi,NULL,Posto de Gasolina
+-22.8812125,-43.0948117,Niteroi,NULL,Posto de Gasolina
+-22.9001463,-43.1102908,Niteroi,Parmê,Restaurante
+-22.8999645,-43.1104324,Niteroi,Wizard,Escola
+-22.9030335,-43.1114931,Niteroi,Chuang Lin,Restaurante
+-22.9039246,-43.1027135,Niteroi,Torninha,Restaurante
+-22.9067861,-43.1052047,Niteroi,Restaurante Zagatti,Restaurante
+-22.902717,-43.1051641,Niteroi,Centro Educacional Alzira Bittencourt,Escola
+-22.9033134,-43.1107124,Niteroi,Bradesco Prime,Banco
+-22.9027509,-43.1109286,Niteroi,Mundo Verde,Super Mercado
+-22.9036016,-43.110096,Niteroi,DUT,Restaurante
+-22.9035442,-43.1100465,Niteroi,Siri II,Bar
+-22.9402863,-43.0473073,Niteroi,Gruta de Capri,Restaurante
+-22.8725980,-43.0501159,Niteroi,DP-Civil 075,Policia Civil
+-22.893640,-43.117807,Niteroi,DP-Civil 076,Policia Civil
+-22.908221,-43.103376,Niteroi,DP-Civil 077,Policia Civil
+-22.880781,-43.090498,Niteroi,DP-Civil 078,Policia Civil
+-22.919503,-43.094124,Niteroi,DP-Civil 079,Policia Civil
+-22.966520,-43.037779,Niteroi,DP-Civil 080,Policia Civil
+-22.950848,-43.058189,Niteroi,DPO Camboinhas,Policia Militar
+-22.969429,-43.032150,Niteroi,DPO Itacoatiara,Policia Militar
+-22.954830,-43.068903,Niteroi,DPO Piratininga,Policia Militar
+-22.910751,-42.985979,Niteroi,DPO Várzea das Moças,Policia Militar
+-22.878721,-43.026630,Niteroi,DPO Maria Paula,Policia Militar
+-22.931796,-43.066792,Niteroi,DPO Cafubá,Policia Militar
+-22.870118,-43.095282,Niteroi,DPO Engenhoca,Policia Militar
+-22.885264,-43.116600,Niteroi,12º Batalhão,Policia Militar
