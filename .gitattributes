@@ -1,0 +1,4 @@
+*.b linguist-language=Prolog
+*.f linguist-language=Prolog
+*.n linguist-language=Prolog
+*.properties linguist-language=Java
